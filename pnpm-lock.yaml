@@ -59,6 +59,9 @@ importers:
       pinia:
         specifier: ^3.0.1
         version: 3.0.1(typescript@5.6.3)(vue@3.5.13(typescript@5.6.3))
+      tauri-plugin-macos-permissions-api:
+        specifier: ^2.2.0
+        version: 2.2.0
       uuid:
         specifier: ^11.0.5
         version: 11.1.0
@@ -3833,6 +3836,9 @@ packages:
   tar-stream@2.2.0:
     resolution: {integrity: sha512-ujeqbceABgwMZxEJnk2HDY2DlnUZ+9oEcb1KzTVfYHio0UE6dG71n60d8D2I4qNvleWrrXpmjpt7vZeF1LnMZQ==}
     engines: {node: '>=6'}
+
+  tauri-plugin-macos-permissions-api@2.2.0:
+    resolution: {integrity: sha512-pgcBqtUMucSColUJ/HcLOBOr+Z+sma2o0nAuobG1uSGBwFJXwltGKE4XsYynktzfzyTpha/xwta2eLezH+EqLg==}
 
   temp-dir@1.0.0:
     resolution: {integrity: sha512-xZFXEGbG7SNC3itwBzI3RYjq/cEhBkx2hJuKGIUOcEULmkQExXiHat2z/qkISYsuR+IKumhEfKKbV5qXmhICFQ==}
@@ -8182,6 +8188,10 @@ snapshots:
       fs-constants: 1.0.0
       inherits: 2.0.4
       readable-stream: 3.6.2
+
+  tauri-plugin-macos-permissions-api@2.2.0:
+    dependencies:
+      '@tauri-apps/api': 2.3.0
 
   temp-dir@1.0.0: {}
 
