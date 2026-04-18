@@ -1,9 +1,9 @@
-domain-suffix,t.me,proxy
-domain-suffix,tdesktop.com,proxy
-domain-suffix,telegra.ph,proxy
-domain-suffix,telegram.me,proxy
-domain-suffix,telegram.org,proxy
-domain-suffix,telesco.pe,proxy
+host-suffix,t.me,proxy
+host-suffix,tdesktop.com,proxy
+host-suffix,telegra.ph,proxy
+host-suffix,telegram.me,proxy
+host-suffix,telegram.org,proxy
+host-suffix,telesco.pe,proxy
 ip-cidr,91.108.0.0/16,proxy,no-resolve
 ip-cidr,95.161.64.0/20,proxy,no-resolve
 ip-cidr,109.239.140.0/24,proxy,no-resolve
@@ -11,319 +11,319 @@ ip-cidr,149.154.160.0/20,proxy,no-resolve
 ip6-cidr,2001:67c:4e8::/48,proxy,no-resolve
 ip6-cidr,2001:b28:f23d::/48,proxy,no-resolve
 ip6-cidr,2001:b28:f23f::/48,proxy,no-resolve
-domain-keyword,anthropic,proxy
-domain-keyword,claude,proxy
-domain-keyword,openai,proxy
-domain-keyword,cloudflare,proxy
-domain-keyword,1024proxy,proxy
-domain,ai.google.dev,proxy
-domain,ai.google.dev,proxy
-domain,alkalimakersuite-pa.clients6.google.com,proxy
-domain,makersuite.google.com,proxy
-domain-suffix,bard.google.com,proxy
-domain-suffix,deepmind.com,proxy
-domain-suffix,deepmind.google,proxy
-domain-suffix,gemini.google.com,proxy
-domain-suffix,generativeai.google,proxy
-domain-suffix,proactivebackend-pa.googleapis.com,proxy
-domain-suffix,apis.google.com,proxy
-domain-keyword,colab,proxy
-domain-keyword,developerprofiles,proxy
-domain-keyword,generativelanguage,proxy
-domain,aistudio.google.com,proxy
-domain,api.githubcopilot.com,proxy
-domain,api.groq.com,proxy
-domain,api.together.xyz,proxy
-domain,bard.google.com,proxy
-domain,console.groq.com,proxy
-domain,copilot-proxy.githubusercontent.com,proxy
-domain,generativelanguage.googleapis.com,proxy
-domain,sydney.bing.com,proxy
-domain-suffix,ai.azure.com,proxy
-domain-suffix,anthropic.com,proxy
-domain-suffix,auth0.com,proxy
-domain-suffix,bard.google.com,proxy
-domain-suffix,chatgpt.com,proxy
-domain-suffix,claude.ai,proxy
-domain-suffix,claudeusercontent.com,proxy
-domain-suffix,client-api.arkoselabs.com,proxy
-domain-suffix,copilot.cloud.microsoft,proxy
-domain-suffix,copilot.microsoft.com,proxy
-domain-suffix,cursor.com,proxy
-domain-suffix,cursor.sh,proxy
-domain-suffix,events.statsigapi.net,proxy
-domain-suffix,featuregates.org,proxy
-domain-suffix,gemini.google.com,proxy
-domain-suffix,grazie.ai,proxy
-domain-suffix,grazie.aws.intellij.net,proxy
-domain-suffix,identrust.com,proxy
-domain-suffix,intercom.io,proxy
-domain-suffix,intercomcdn.com,proxy
-domain-suffix,makersuite.google.com,proxy
-domain-suffix,meta.ai,proxy
-domain-suffix,mistral.ai,proxy
-domain-suffix,oaistatic.com,proxy
-domain-suffix,oaiusercontent.com,proxy
-domain-suffix,openai.com,proxy
-domain-suffix,openaiapi-site.azureedge.net,proxy
-domain-suffix,perplexity.ai,proxy
-domain-suffix,sora.com,proxy
-domain-keyword,openai,proxy
-domain-suffix,auth0.com,proxy
-domain-suffix,challenges.cloudflare.com,proxy
-domain-suffix,chatgpt.com,proxy
-domain-suffix,client-api.arkoselabs.com,proxy
-domain-suffix,events.statsigapi.net,proxy
-domain-suffix,featuregates.org,proxy
-domain-suffix,identrust.com,proxy
-domain-suffix,intercom.io,proxy
-domain-suffix,intercomcdn.com,proxy
-domain-suffix,oaistatic.com,proxy
-domain-suffix,oaiusercontent.com,proxy
-domain-suffix,openai.com,proxy
-domain-suffix,openaiapi-site.azureedge.net,proxy
-domain-suffix,sentry.io,proxy
-domain-suffix,stripe.com,proxy
-domain-suffix,sora.com,proxy
-domain-suffix,edgedatg.com, proxy
-domain-suffix,go.com, proxy
-domain-keyword,anthropic, proxy
-domain-keyword,claude, proxy
-domain-keyword,openai, proxy
-domain,ai.google.dev, proxy
-domain,aistudio.google.com, proxy
-domain,api.githubcopilot.com, proxy
-domain,api.groq.com, proxy
-domain,api.together.xyz, proxy
-domain,bard.google.com, proxy
-domain,console.groq.com, proxy
-domain,copilot-proxy.githubusercontent.com, proxy
-domain,generativelanguage.googleapis.com, proxy
-domain,sydney.bing.com, proxy
-domain-suffix,ai.azure.com, proxy
-domain-suffix,anthropic.com, proxy
-domain-suffix,auth0.com, proxy
-domain-suffix,bard.google.com, proxy
-domain-suffix,chatgpt.com, proxy
-domain-suffix,claude.ai, proxy
-domain-suffix,claudeusercontent.com, proxy
-domain-suffix,client-api.arkoselabs.com, proxy
-domain-suffix,copilot.cloud.microsoft, proxy
-domain-suffix,copilot.microsoft.com, proxy
-domain-suffix,cursor.com, proxy
-domain-suffix,cursor.sh, proxy
-domain-suffix,events.statsigapi.net, proxy
-domain-suffix,featuregates.org, proxy
-domain-suffix,gemini.google.com, proxy
-domain-suffix,grazie.ai, proxy
-domain-suffix,grazie.aws.intellij.net, proxy
-domain-suffix,identrust.com, proxy
-domain-suffix,intercom.io, proxy
-domain-suffix,intercomcdn.com, proxy
-domain-suffix,makersuite.google.com, proxy
-domain-suffix,meta.ai, proxy
-domain-suffix,mistral.ai, proxy
-domain-suffix,oaistatic.com, proxy
-domain-suffix,oaiusercontent.com, proxy
-domain-suffix,openai.com, proxy
-domain-suffix,openaiapi-site.azureedge.net, proxy
-domain-suffix,perplexity.ai, proxy
-domain-suffix,sora.com, proxy
-domain-keyword,abematv.akamaized.net, proxy
-domain-suffix,abema.io, proxy
-domain-suffix,abema.tv, proxy
-domain-suffix,ameba.jp, proxy
-domain-suffix,hayabusa.io, proxy
-domain-suffix,c4assets.com, proxy
-domain-suffix,channel4.com, proxy
-domain-keyword,avoddashs, proxy
-domain,atv-ps.amazon.com, proxy
-domain,avodmp4s3ww-a.akamaihd.net, proxy
-domain,d1v5ir2lpwr8os.cloudfront.net, proxy
-domain,d1xfray82862hr.cloudfront.net, proxy
-domain,d22qjgkvxw22r6.cloudfront.net, proxy
-domain,d25xi40x97liuc.cloudfront.net, proxy
-domain,d27xxe7juh1us6.cloudfront.net, proxy
-domain,d3196yreox78o9.cloudfront.net, proxy
-domain,dmqdd6hw24ucf.cloudfront.net, proxy
-domain,ktpx.amazon.com, proxy
-domain-suffix,aboutamazon.com, proxy
-domain-suffix,aiv-cdn.net, proxy
-domain-suffix,aiv-delivery.net, proxy
-domain-suffix,amazon.jobs, proxy
-domain-suffix,amazontools.com, proxy
-domain-suffix,amazontours.com, proxy
-domain-suffix,amazonuniversity.jobs, proxy
-domain-suffix,amazonvideo.com, proxy
-domain-suffix,media-amazon.com, proxy
-domain-suffix,pv-cdn.net, proxy
-domain-suffix,seattlespheres.com, proxy
-domain,gspe1-ssl.ls.apple.com, proxy
-domain,np-edge.itunes.apple.com, proxy
-domain,play-edge.itunes.apple.com, proxy
-domain-suffix,tv.apple.com, proxy
-domain-keyword,bbcfmt, proxy
-domain-keyword,uk-live, proxy
-domain,aod-dash-uk-live.akamaized.net, proxy
-domain,aod-hls-uk-live.akamaized.net, proxy
-domain,vod-dash-uk-live.akamaized.net, proxy
-domain,vod-thumb-uk-live.akamaized.net, proxy
-domain-suffix,bbc.co, proxy
-domain-suffix,bbc.co.uk, proxy
-domain-suffix,bbc.com, proxy
-domain-suffix,bbc.net.uk, proxy
-domain-suffix,bbcfmt.hs.llnwd.net, proxy
-domain-suffix,bbci.co, proxy
-domain-suffix,bbci.co.uk, proxy
-domain-suffix,bidi.net.uk, proxy
-domain,bahamut.akamaized.net, proxy
-domain,gamer-cds.cdn.hinet.net, proxy
-domain,gamer2-cds.cdn.hinet.net, proxy
-domain-suffix,bahamut.com.tw, proxy
-domain-suffix,gamer.com.tw, proxy
-domain-keyword,voddazn, proxy
-domain,d151l6v8er5bdm.cloudfront.net, proxy
-domain-suffix,d151l6v8er5bdm.cloudfront.net, proxy
-domain-suffix,d1sgwhnao7452x.cloudfront.net, proxy
-domain-suffix,dazn-api.com, proxy
-domain-suffix,dazn.com, proxy
-domain-suffix,dazndn.com, proxy
-domain-suffix,dcblivedazn.akamaized.net, proxy
-domain-suffix,indazn.com, proxy
-domain-suffix,indaznlab.com, proxy
-domain-suffix,sentry.io, proxy
-domain-suffix,deezer.com, proxy
-domain-suffix,dzcdn.net, proxy
-domain-suffix,disco-api.com, proxy
-domain-suffix,discovery.com, proxy
-domain-suffix,uplynk.com, proxy
-domain,cdn.registerdisney.go.com, proxy
-domain-suffix,adobedtm.com, proxy
-domain-suffix,bam.nr-data.net, proxy
-domain-suffix,bamgrid.com, proxy
-domain-suffix,braze.com, proxy
-domain-suffix,cdn.optimizely.com, proxy
-domain-suffix,cdn.registerdisney.go.com, proxy
-domain-suffix,cws.conviva.com, proxy
-domain-suffix,d9.flashtalking.com, proxy
-domain-suffix,disney-plus.net, proxy
-domain-suffix,disney-portal.my.onetrust.com, proxy
-domain-suffix,disney.demdex.net, proxy
-domain-suffix,disney.my.sentry.io, proxy
-domain-suffix,disneyplus.bn5x.net, proxy
-domain-suffix,disneyplus.com, proxy
-domain-suffix,disneyplus.com.ssl.sc.omtrdc.net, proxy
-domain-suffix,disneystreaming.com, proxy
-domain-suffix,dssott.com, proxy
-domain-suffix,execute-api.us-east-1.amazonaws.com, proxy
-domain-suffix,js-agent.newrelic.com, proxy
-domain,bcbolt446c5271-a.akamaihd.net, proxy
-domain,content.jwplatform.com, proxy
-domain,edge.api.brightcove.com, proxy
-domain,videos-f.jwpsrv.com, proxy
-domain-suffix,encoretvb.com, proxy
-domain-suffix,fox.com, proxy
-domain-suffix,foxdcg.com, proxy
-domain-suffix,uplynk.com, proxy
-domain-suffix,hbo.com, proxy
-domain-suffix,hbogo.com, proxy
-domain-suffix,hbomax.com, proxy
-domain-suffix,hbomaxcdn.com, proxy
-domain-suffix,hbonow.com, proxy
-domain-keyword,hbogoasia, proxy
-domain,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, proxy
-domain,bcbolthboa-a.akamaihd.net, proxy
-domain,cf-images.ap-southeast-1.prod.boltdns.net, proxy
-domain,dai3fd1oh325y.cloudfront.net, proxy
-domain,hboasia1-i.akamaihd.net, proxy
-domain,hboasia2-i.akamaihd.net, proxy
-domain,hboasia3-i.akamaihd.net, proxy
-domain,hboasia4-i.akamaihd.net, proxy
-domain,hboasia5-i.akamaihd.net, proxy
-domain,hboasialive.akamaized.net, proxy
-domain,hbogoprod-vod.akamaized.net, proxy
-domain,hbolb.onwardsmg.com, proxy
-domain,hbounify-prod.evergent.com, proxy
-domain,players.brightcove.net, proxy
-domain,s3-ap-southeast-1.amazonaws.com, proxy
-domain-suffix,hboasia.com, proxy
-domain-suffix,hbogoasia.com, proxy
-domain-suffix,hbogoasia.hk, proxy
-domain-suffix,5itv.tv, proxy
-domain-suffix,ocnttv.com, proxy
-domain-suffix,cws-hulu.conviva.com, proxy
-domain-suffix,hulu.com, proxy
-domain-suffix,hulu.hb.omtrdc.net, proxy
-domain-suffix,hulu.sc.omtrdc.net, proxy
-domain-suffix,huluad.com, proxy
-domain-suffix,huluim.com, proxy
-domain-suffix,hulustream.com, proxy
-domain-suffix,happyon.jp, proxy
-domain-suffix,hjholdings.jp, proxy
-domain-suffix,hulu.jp, proxy
-domain-suffix,prod.hjholdings.tv, proxy
-domain-suffix,streaks.jp, proxy
-domain-suffix,yb.uncn.jp, proxy
-domain,itvpnpmobile-a.akamaihd.net, proxy
-domain-suffix,itv.com, proxy
-domain-suffix,itvstatic.com, proxy
-domain-suffix,iwara.tv, proxy
-domain-keyword,jooxweb-api, proxy
-domain-suffix,joox.com, proxy
-domain-keyword,japonx, proxy
-domain-keyword,japronx, proxy
-domain-suffix,japonx.com, proxy
-domain-suffix,japonx.net, proxy
-domain-suffix,japonx.tv, proxy
-domain-suffix,japonx.vip, proxy
-domain-suffix,japronx.com, proxy
-domain-suffix,japronx.net, proxy
-domain-suffix,japronx.tv, proxy
-domain-suffix,japronx.vip, proxy
-domain-suffix,kfs.io, proxy
-domain-suffix,kkbox.com, proxy
-domain-suffix,kkbox.com.tw, proxy
-domain,kktv-theater.kk.stream, proxy
-domain,theater-kktv.cdn.hinet.net, proxy
-domain-suffix,kktv.com.tw, proxy
-domain-suffix,kktv.me, proxy
-domain,litvfreemobile-hichannel.cdn.hinet.net, proxy
-domain-suffix,litv.tv, proxy
-domain,d3c7rimkq79yfu.cloudfront.net, proxy
-domain-suffix,d3c7rimkq79yfu.cloudfront.net, proxy
-domain-suffix,linetv.tw, proxy
-domain-suffix,profile.line-scdn.net, proxy
-domain,d349g9zuie06uo.cloudfront.net, proxy
-domain-suffix,channel5.com, proxy
-domain-suffix,my5.tv, proxy
-domain-keyword,nowtv100, proxy
-domain-keyword,rthklive, proxy
-domain,mytvsuperlimited.hb.omtrdc.net, proxy
-domain,mytvsuperlimited.sc.omtrdc.net, proxy
-domain-suffix,mytvsuper.com, proxy
-domain-suffix,tvb.com, proxy
-domain-keyword,apiproxy-device-prod-nlb-, proxy
-domain-keyword,dualstack.apiproxy-, proxy
-domain-keyword,netflixdnstest, proxy
-domain,netflix.com.edgesuite.net, proxy
-domain-suffix,fast.com, proxy
-domain-suffix,netflix.com, proxy
-domain-suffix,netflix.net, proxy
-domain-suffix,netflixdnstest0.com, proxy
-domain-suffix,netflixdnstest1.com, proxy
-domain-suffix,netflixdnstest2.com, proxy
-domain-suffix,netflixdnstest3.com, proxy
-domain-suffix,netflixdnstest4.com, proxy
-domain-suffix,netflixdnstest5.com, proxy
-domain-suffix,netflixdnstest6.com, proxy
-domain-suffix,netflixdnstest7.com, proxy
-domain-suffix,netflixdnstest8.com, proxy
-domain-suffix,netflixdnstest9.com, proxy
-domain-suffix,nflxext.com, proxy
-domain-suffix,nflximg.com, proxy
-domain-suffix,nflximg.net, proxy
-domain-suffix,nflxso.net, proxy
-domain-suffix,nflxvideo.net, proxy
+host-keyword,anthropic,proxy
+host-keyword,claude,proxy
+host-keyword,openai,proxy
+host-keyword,cloudflare,proxy
+host-keyword,1024proxy,proxy
+host,ai.google.dev,proxy
+host,ai.google.dev,proxy
+host,alkalimakersuite-pa.clients6.google.com,proxy
+host,makersuite.google.com,proxy
+host-suffix,bard.google.com,proxy
+host-suffix,deepmind.com,proxy
+host-suffix,deepmind.google,proxy
+host-suffix,gemini.google.com,proxy
+host-suffix,generativeai.google,proxy
+host-suffix,proactivebackend-pa.googleapis.com,proxy
+host-suffix,apis.google.com,proxy
+host-keyword,colab,proxy
+host-keyword,developerprofiles,proxy
+host-keyword,generativelanguage,proxy
+host,aistudio.google.com,proxy
+host,api.githubcopilot.com,proxy
+host,api.groq.com,proxy
+host,api.together.xyz,proxy
+host,bard.google.com,proxy
+host,console.groq.com,proxy
+host,copilot-proxy.githubusercontent.com,proxy
+host,generativelanguage.googleapis.com,proxy
+host,sydney.bing.com,proxy
+host-suffix,ai.azure.com,proxy
+host-suffix,anthropic.com,proxy
+host-suffix,auth0.com,proxy
+host-suffix,bard.google.com,proxy
+host-suffix,chatgpt.com,proxy
+host-suffix,claude.ai,proxy
+host-suffix,claudeusercontent.com,proxy
+host-suffix,client-api.arkoselabs.com,proxy
+host-suffix,copilot.cloud.microsoft,proxy
+host-suffix,copilot.microsoft.com,proxy
+host-suffix,cursor.com,proxy
+host-suffix,cursor.sh,proxy
+host-suffix,events.statsigapi.net,proxy
+host-suffix,featuregates.org,proxy
+host-suffix,gemini.google.com,proxy
+host-suffix,grazie.ai,proxy
+host-suffix,grazie.aws.intellij.net,proxy
+host-suffix,identrust.com,proxy
+host-suffix,intercom.io,proxy
+host-suffix,intercomcdn.com,proxy
+host-suffix,makersuite.google.com,proxy
+host-suffix,meta.ai,proxy
+host-suffix,mistral.ai,proxy
+host-suffix,oaistatic.com,proxy
+host-suffix,oaiusercontent.com,proxy
+host-suffix,openai.com,proxy
+host-suffix,openaiapi-site.azureedge.net,proxy
+host-suffix,perplexity.ai,proxy
+host-suffix,sora.com,proxy
+host-keyword,openai,proxy
+host-suffix,auth0.com,proxy
+host-suffix,challenges.cloudflare.com,proxy
+host-suffix,chatgpt.com,proxy
+host-suffix,client-api.arkoselabs.com,proxy
+host-suffix,events.statsigapi.net,proxy
+host-suffix,featuregates.org,proxy
+host-suffix,identrust.com,proxy
+host-suffix,intercom.io,proxy
+host-suffix,intercomcdn.com,proxy
+host-suffix,oaistatic.com,proxy
+host-suffix,oaiusercontent.com,proxy
+host-suffix,openai.com,proxy
+host-suffix,openaiapi-site.azureedge.net,proxy
+host-suffix,sentry.io,proxy
+host-suffix,stripe.com,proxy
+host-suffix,sora.com,proxy
+host-suffix,edgedatg.com, proxy
+host-suffix,go.com, proxy
+host-keyword,anthropic, proxy
+host-keyword,claude, proxy
+host-keyword,openai, proxy
+host,ai.google.dev, proxy
+host,aistudio.google.com, proxy
+host,api.githubcopilot.com, proxy
+host,api.groq.com, proxy
+host,api.together.xyz, proxy
+host,bard.google.com, proxy
+host,console.groq.com, proxy
+host,copilot-proxy.githubusercontent.com, proxy
+host,generativelanguage.googleapis.com, proxy
+host,sydney.bing.com, proxy
+host-suffix,ai.azure.com, proxy
+host-suffix,anthropic.com, proxy
+host-suffix,auth0.com, proxy
+host-suffix,bard.google.com, proxy
+host-suffix,chatgpt.com, proxy
+host-suffix,claude.ai, proxy
+host-suffix,claudeusercontent.com, proxy
+host-suffix,client-api.arkoselabs.com, proxy
+host-suffix,copilot.cloud.microsoft, proxy
+host-suffix,copilot.microsoft.com, proxy
+host-suffix,cursor.com, proxy
+host-suffix,cursor.sh, proxy
+host-suffix,events.statsigapi.net, proxy
+host-suffix,featuregates.org, proxy
+host-suffix,gemini.google.com, proxy
+host-suffix,grazie.ai, proxy
+host-suffix,grazie.aws.intellij.net, proxy
+host-suffix,identrust.com, proxy
+host-suffix,intercom.io, proxy
+host-suffix,intercomcdn.com, proxy
+host-suffix,makersuite.google.com, proxy
+host-suffix,meta.ai, proxy
+host-suffix,mistral.ai, proxy
+host-suffix,oaistatic.com, proxy
+host-suffix,oaiusercontent.com, proxy
+host-suffix,openai.com, proxy
+host-suffix,openaiapi-site.azureedge.net, proxy
+host-suffix,perplexity.ai, proxy
+host-suffix,sora.com, proxy
+host-keyword,abematv.akamaized.net, proxy
+host-suffix,abema.io, proxy
+host-suffix,abema.tv, proxy
+host-suffix,ameba.jp, proxy
+host-suffix,hayabusa.io, proxy
+host-suffix,c4assets.com, proxy
+host-suffix,channel4.com, proxy
+host-keyword,avoddashs, proxy
+host,atv-ps.amazon.com, proxy
+host,avodmp4s3ww-a.akamaihd.net, proxy
+host,d1v5ir2lpwr8os.cloudfront.net, proxy
+host,d1xfray82862hr.cloudfront.net, proxy
+host,d22qjgkvxw22r6.cloudfront.net, proxy
+host,d25xi40x97liuc.cloudfront.net, proxy
+host,d27xxe7juh1us6.cloudfront.net, proxy
+host,d3196yreox78o9.cloudfront.net, proxy
+host,dmqdd6hw24ucf.cloudfront.net, proxy
+host,ktpx.amazon.com, proxy
+host-suffix,aboutamazon.com, proxy
+host-suffix,aiv-cdn.net, proxy
+host-suffix,aiv-delivery.net, proxy
+host-suffix,amazon.jobs, proxy
+host-suffix,amazontools.com, proxy
+host-suffix,amazontours.com, proxy
+host-suffix,amazonuniversity.jobs, proxy
+host-suffix,amazonvideo.com, proxy
+host-suffix,media-amazon.com, proxy
+host-suffix,pv-cdn.net, proxy
+host-suffix,seattlespheres.com, proxy
+host,gspe1-ssl.ls.apple.com, proxy
+host,np-edge.itunes.apple.com, proxy
+host,play-edge.itunes.apple.com, proxy
+host-suffix,tv.apple.com, proxy
+host-keyword,bbcfmt, proxy
+host-keyword,uk-live, proxy
+host,aod-dash-uk-live.akamaized.net, proxy
+host,aod-hls-uk-live.akamaized.net, proxy
+host,vod-dash-uk-live.akamaized.net, proxy
+host,vod-thumb-uk-live.akamaized.net, proxy
+host-suffix,bbc.co, proxy
+host-suffix,bbc.co.uk, proxy
+host-suffix,bbc.com, proxy
+host-suffix,bbc.net.uk, proxy
+host-suffix,bbcfmt.hs.llnwd.net, proxy
+host-suffix,bbci.co, proxy
+host-suffix,bbci.co.uk, proxy
+host-suffix,bidi.net.uk, proxy
+host,bahamut.akamaized.net, proxy
+host,gamer-cds.cdn.hinet.net, proxy
+host,gamer2-cds.cdn.hinet.net, proxy
+host-suffix,bahamut.com.tw, proxy
+host-suffix,gamer.com.tw, proxy
+host-keyword,voddazn, proxy
+host,d151l6v8er5bdm.cloudfront.net, proxy
+host-suffix,d151l6v8er5bdm.cloudfront.net, proxy
+host-suffix,d1sgwhnao7452x.cloudfront.net, proxy
+host-suffix,dazn-api.com, proxy
+host-suffix,dazn.com, proxy
+host-suffix,dazndn.com, proxy
+host-suffix,dcblivedazn.akamaized.net, proxy
+host-suffix,indazn.com, proxy
+host-suffix,indaznlab.com, proxy
+host-suffix,sentry.io, proxy
+host-suffix,deezer.com, proxy
+host-suffix,dzcdn.net, proxy
+host-suffix,disco-api.com, proxy
+host-suffix,discovery.com, proxy
+host-suffix,uplynk.com, proxy
+host,cdn.registerdisney.go.com, proxy
+host-suffix,adobedtm.com, proxy
+host-suffix,bam.nr-data.net, proxy
+host-suffix,bamgrid.com, proxy
+host-suffix,braze.com, proxy
+host-suffix,cdn.optimizely.com, proxy
+host-suffix,cdn.registerdisney.go.com, proxy
+host-suffix,cws.conviva.com, proxy
+host-suffix,d9.flashtalking.com, proxy
+host-suffix,disney-plus.net, proxy
+host-suffix,disney-portal.my.onetrust.com, proxy
+host-suffix,disney.demdex.net, proxy
+host-suffix,disney.my.sentry.io, proxy
+host-suffix,disneyplus.bn5x.net, proxy
+host-suffix,disneyplus.com, proxy
+host-suffix,disneyplus.com.ssl.sc.omtrdc.net, proxy
+host-suffix,disneystreaming.com, proxy
+host-suffix,dssott.com, proxy
+host-suffix,execute-api.us-east-1.amazonaws.com, proxy
+host-suffix,js-agent.newrelic.com, proxy
+host,bcbolt446c5271-a.akamaihd.net, proxy
+host,content.jwplatform.com, proxy
+host,edge.api.brightcove.com, proxy
+host,videos-f.jwpsrv.com, proxy
+host-suffix,encoretvb.com, proxy
+host-suffix,fox.com, proxy
+host-suffix,foxdcg.com, proxy
+host-suffix,uplynk.com, proxy
+host-suffix,hbo.com, proxy
+host-suffix,hbogo.com, proxy
+host-suffix,hbomax.com, proxy
+host-suffix,hbomaxcdn.com, proxy
+host-suffix,hbonow.com, proxy
+host-keyword,hbogoasia, proxy
+host,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, proxy
+host,bcbolthboa-a.akamaihd.net, proxy
+host,cf-images.ap-southeast-1.prod.boltdns.net, proxy
+host,dai3fd1oh325y.cloudfront.net, proxy
+host,hboasia1-i.akamaihd.net, proxy
+host,hboasia2-i.akamaihd.net, proxy
+host,hboasia3-i.akamaihd.net, proxy
+host,hboasia4-i.akamaihd.net, proxy
+host,hboasia5-i.akamaihd.net, proxy
+host,hboasialive.akamaized.net, proxy
+host,hbogoprod-vod.akamaized.net, proxy
+host,hbolb.onwardsmg.com, proxy
+host,hbounify-prod.evergent.com, proxy
+host,players.brightcove.net, proxy
+host,s3-ap-southeast-1.amazonaws.com, proxy
+host-suffix,hboasia.com, proxy
+host-suffix,hbogoasia.com, proxy
+host-suffix,hbogoasia.hk, proxy
+host-suffix,5itv.tv, proxy
+host-suffix,ocnttv.com, proxy
+host-suffix,cws-hulu.conviva.com, proxy
+host-suffix,hulu.com, proxy
+host-suffix,hulu.hb.omtrdc.net, proxy
+host-suffix,hulu.sc.omtrdc.net, proxy
+host-suffix,huluad.com, proxy
+host-suffix,huluim.com, proxy
+host-suffix,hulustream.com, proxy
+host-suffix,happyon.jp, proxy
+host-suffix,hjholdings.jp, proxy
+host-suffix,hulu.jp, proxy
+host-suffix,prod.hjholdings.tv, proxy
+host-suffix,streaks.jp, proxy
+host-suffix,yb.uncn.jp, proxy
+host,itvpnpmobile-a.akamaihd.net, proxy
+host-suffix,itv.com, proxy
+host-suffix,itvstatic.com, proxy
+host-suffix,iwara.tv, proxy
+host-keyword,jooxweb-api, proxy
+host-suffix,joox.com, proxy
+host-keyword,japonx, proxy
+host-keyword,japronx, proxy
+host-suffix,japonx.com, proxy
+host-suffix,japonx.net, proxy
+host-suffix,japonx.tv, proxy
+host-suffix,japonx.vip, proxy
+host-suffix,japronx.com, proxy
+host-suffix,japronx.net, proxy
+host-suffix,japronx.tv, proxy
+host-suffix,japronx.vip, proxy
+host-suffix,kfs.io, proxy
+host-suffix,kkbox.com, proxy
+host-suffix,kkbox.com.tw, proxy
+host,kktv-theater.kk.stream, proxy
+host,theater-kktv.cdn.hinet.net, proxy
+host-suffix,kktv.com.tw, proxy
+host-suffix,kktv.me, proxy
+host,litvfreemobile-hichannel.cdn.hinet.net, proxy
+host-suffix,litv.tv, proxy
+host,d3c7rimkq79yfu.cloudfront.net, proxy
+host-suffix,d3c7rimkq79yfu.cloudfront.net, proxy
+host-suffix,linetv.tw, proxy
+host-suffix,profile.line-scdn.net, proxy
+host,d349g9zuie06uo.cloudfront.net, proxy
+host-suffix,channel5.com, proxy
+host-suffix,my5.tv, proxy
+host-keyword,nowtv100, proxy
+host-keyword,rthklive, proxy
+host,mytvsuperlimited.hb.omtrdc.net, proxy
+host,mytvsuperlimited.sc.omtrdc.net, proxy
+host-suffix,mytvsuper.com, proxy
+host-suffix,tvb.com, proxy
+host-keyword,apiproxy-device-prod-nlb-, proxy
+host-keyword,dualstack.apiproxy-, proxy
+host-keyword,netflixdnstest, proxy
+host,netflix.com.edgesuite.net, proxy
+host-suffix,fast.com, proxy
+host-suffix,netflix.com, proxy
+host-suffix,netflix.net, proxy
+host-suffix,netflixdnstest0.com, proxy
+host-suffix,netflixdnstest1.com, proxy
+host-suffix,netflixdnstest2.com, proxy
+host-suffix,netflixdnstest3.com, proxy
+host-suffix,netflixdnstest4.com, proxy
+host-suffix,netflixdnstest5.com, proxy
+host-suffix,netflixdnstest6.com, proxy
+host-suffix,netflixdnstest7.com, proxy
+host-suffix,netflixdnstest8.com, proxy
+host-suffix,netflixdnstest9.com, proxy
+host-suffix,nflxext.com, proxy
+host-suffix,nflximg.com, proxy
+host-suffix,nflximg.net, proxy
+host-suffix,nflxso.net, proxy
+host-suffix,nflxvideo.net, proxy
 ip-cidr,8.41.4.0/24, proxy,no-resolve
 ip-cidr,23.246.0.0/18, proxy,no-resolve
 ip-cidr,37.77.184.0/21, proxy,no-resolve
@@ -342,276 +342,276 @@ ip-cidr,198.45.48.0/20, proxy,no-resolve
 ip-cidr,203.75.84.0/24, proxy,no-resolve
 ip-cidr,207.45.72.0/22, proxy,no-resolve
 ip-cidr,208.75.76.0/22, proxy,no-resolve
-domain-suffix,dmc.nico, proxy
-domain-suffix,nicovideo.jp, proxy
-domain-suffix,nimg.jp, proxy
-domain-keyword,nivod, proxy
-domain-suffix,biggggg.com, proxy
-domain-suffix,mudvod.tv, proxy
-domain-suffix,nbys.tv, proxy
-domain-suffix,nbys1.tv, proxy
-domain-suffix,nbyy.tv, proxy
-domain-suffix,newpppp.com, proxy
-domain-suffix,nivod.tv, proxy
-domain-suffix,nivodi.tv, proxy
-domain-suffix,nivodz.com, proxy
-domain-suffix,vod360.net, proxy
-domain-keyword,olevod, proxy
-domain-suffix,haiwaikan.com, proxy
-domain-suffix,iole.tv, proxy
-domain-suffix,olehd.com, proxy
-domain-suffix,olelive.com, proxy
-domain-suffix,olevod.com, proxy
-domain-suffix,olevod.io, proxy
-domain-suffix,olevod.tv, proxy
-domain-suffix,olevodtv.com, proxy
-domain-keyword,openai, proxy
-domain-suffix,auth0.com, proxy
-domain-suffix,challenges.cloudflare.com, proxy
-domain-suffix,chatgpt.com, proxy
-domain-suffix,client-api.arkoselabs.com, proxy
-domain-suffix,events.statsigapi.net, proxy
-domain-suffix,featuregates.org, proxy
-domain-suffix,identrust.com, proxy
-domain-suffix,intercom.io, proxy
-domain-suffix,intercomcdn.com, proxy
-domain-suffix,oaistatic.com, proxy
-domain-suffix,oaiusercontent.com, proxy
-domain-suffix,openai.com, proxy
-domain-suffix,openaiapi-site.azureedge.net, proxy
-domain-suffix,sentry.io, proxy
-domain-suffix,stripe.com, proxy
-domain-suffix,pbs.org, proxy
-domain-suffix,pandora.com, proxy
-domain-suffix,phncdn.com, proxy
-domain-suffix,phprcdn.com, proxy
-domain-suffix,pornhub.com, proxy
-domain-suffix,pornhubpremium.com, proxy
-domain-suffix,qobuz.com, proxy
-domain-suffix,p-cdn.us, proxy
-domain-suffix,sndcdn.com, proxy
-domain-suffix,soundcloud.com, proxy
-domain-keyword,-spotify-, proxy
-domain-keyword,spotify.com, proxy
-domain-suffix,pscdn.co, proxy
-domain-suffix,scdn.co, proxy
-domain-suffix,spoti.fi, proxy
-domain-suffix,spotify.com, proxy
-domain-suffix,spotifycdn.com, proxy
-domain-suffix,spotifycdn.net, proxy
-domain-suffix,tidal-cms.s3.amazonaws.com, proxy
-domain-suffix,tidal.com, proxy
-domain-suffix,tidalhifi.com, proxy
-domain,hamifans.emome.net, proxy
-domain-suffix,skyking.com.tw, proxy
-domain-keyword,tiktokcdn, proxy
-domain-suffix,byteoversea.com, proxy
-domain-suffix,ibytedtos.com, proxy
-domain-suffix,ipstatp.com, proxy
-domain-suffix,muscdn.com, proxy
-domain-suffix,musical.ly, proxy
-domain-suffix,tik-tokapi.com, proxy
-domain-suffix,tiktok.com, proxy
-domain-suffix,tiktokcdn.com, proxy
-domain-suffix,tiktokv.com, proxy
-domain-keyword,ttvnw, proxy
-domain-suffix,ext-twitch.tv, proxy
-domain-suffix,jtvnw.net, proxy
-domain-suffix,ttvnw.net, proxy
-domain-suffix,twitch-ext.rootonline.de, proxy
-domain-suffix,twitch.tv, proxy
-domain-suffix,twitchcdn.net, proxy
-domain,api.viu.now.com, proxy
-domain,d1k2us671qcoau.cloudfront.net, proxy
-domain,d2anahhhmp1ffz.cloudfront.net, proxy
-domain,dfp6rglgjqszk.cloudfront.net, proxy
-domain-suffix,cognito-identity.us-east-1.amazonaws.com, proxy
-domain-suffix,d1k2us671qcoau.cloudfront.net, proxy
-domain-suffix,d2anahhhmp1ffz.cloudfront.net, proxy
-domain-suffix,dfp6rglgjqszk.cloudfront.net, proxy
-domain-suffix,mobileanalytics.us-east-1.amazonaws.com, proxy
-domain-suffix,viu.com, proxy
-domain-suffix,viu.now.com, proxy
-domain-suffix,viu.tv, proxy
-domain-keyword,youtube, proxy
-domain,youtubei.googleapis.com, proxy
-domain,yt3.ggpht.com, proxy
-domain-suffix,googlevideo.com, proxy
-domain-suffix,gvt2.com, proxy
-domain-suffix,withyoutube.com, proxy
-domain-suffix,youtu.be, proxy
-domain-suffix,youtube-nocookie.com, proxy
-domain-suffix,youtube.com, proxy
-domain-suffix,youtubeeducation.com, proxy
-domain-suffix,youtubegaming.com, proxy
-domain-suffix,youtubekids.com, proxy
-domain-suffix,yt.be, proxy
-domain-suffix,ytimg.com, proxy
-domain,music.youtube.com, proxy
-domain-suffix,1password.com,proxy
-domain-suffix,adguard.org,proxy
-domain-suffix,bit.no.com,proxy
-domain-suffix,btlibrary.me,proxy
-domain-suffix,cloudcone.com,proxy
-domain-suffix,dubox.com,proxy
-domain-suffix,gameloft.com,proxy
-domain-suffix,garena.com,proxy
-domain-suffix,hoyolab.com,proxy
-domain-suffix,inoreader.com,proxy
-domain-suffix,ip138.com,proxy
-domain-suffix,linkedin.com,proxy
-domain-suffix,myteamspeak.com,proxy
-domain-suffix,notion.so,proxy
-domain-suffix,ping.pe,proxy
-domain-suffix,reddit.com,proxy
-domain-suffix,teddysun.com,proxy
-domain-suffix,tumbex.com,proxy
-domain-suffix,twdvd.com,proxy
-domain-suffix,unsplash.com,proxy
-domain-suffix,buzzsprout.com,proxy
-domain-suffix,eu,proxy
-domain-suffix,hk,proxy
-domain-suffix,jp,proxy
-domain-suffix,kr,proxy
-domain-suffix,sg,proxy
-domain-suffix,tw,proxy
-domain-suffix,uk,proxy
-domain-keyword,jinkela,proxy
-domain-keyword,nbsd,proxy
-domain-keyword,muguacloud,proxy
-domain-keyword,biteb,proxy  
-domain-keyword,1e100,proxy
-domain-keyword,abema,proxy
-domain-keyword,appledaily,proxy
-domain-keyword,avtb,proxy
-domain-keyword,beetalk,proxy
-domain-keyword,blogspot,proxy
-domain-keyword,dropbox,proxy
-domain-keyword,facebook,proxy
-domain-keyword,fbcdn,proxy
-domain-keyword,github,proxy
-domain-keyword,gmail,proxy
-domain-keyword,google,proxy
-domain-keyword,instagram,proxy
-domain-keyword,porn,proxy
-domain-keyword,sci-hub,proxy
-domain-keyword,spotify,proxy
-domain-keyword,telegram,proxy
-domain-keyword,twitter,proxy
-domain-keyword,whatsapp,proxy
-domain-keyword,youtube,proxy
-domain-suffix,4sqi.net,proxy
-domain-suffix,a248.e.akamai.net,proxy
-domain-suffix,adobedtm.com,proxy
-domain-suffix,ampproject.org,proxy
-domain-suffix,android.com,proxy
-domain-suffix,aolcdn.com,proxy
-domain-suffix,apkmirror.com,proxy
-domain-suffix,apkpure.com,proxy
-domain-suffix,app-measurement.com,proxy
-domain-suffix,appspot.com,proxy
-domain-suffix,archive.org,proxy
-domain-suffix,armorgames.com,proxy
-domain-suffix,aspnetcdn.com,proxy
-domain-suffix,awsstatic.com,proxy
-domain-suffix,azureedge.net,proxy
-domain-suffix,azurewebsites.net,proxy
-domain-suffix,bandwagonhost.com,proxy
-domain-suffix,bing.com,proxy
-domain-suffix,bkrtx.com,proxy
-domain-suffix,blogcdn.com,proxy
-domain-suffix,blogger.com,proxy
-domain-suffix,blogsmithmedia.com,proxy
-domain-suffix,blogspot.com,proxy
-domain-suffix,blogspot.hk,proxy
-domain-suffix,blogspot.jp,proxy
-domain-suffix,bloomberg.cn,proxy
-domain-suffix,bloomberg.com,proxy
-domain-suffix,box.com,proxy
-domain-suffix,cachefly.net,proxy
-domain-suffix,cdnst.net,proxy
-domain-suffix,cloudfront.net,proxy
-domain-suffix,comodoca.com,proxy
-domain-suffix,daum.net,proxy
-domain-suffix,deskconnect.com,proxy
-domain-suffix,disqus.com,proxy
-domain-suffix,disquscdn.com,proxy
-domain-suffix,dropbox.com,proxy
-domain-suffix,dropboxapi.com,proxy
-domain-suffix,dropboxstatic.com,proxy
-domain-suffix,dropboxusercontent.com,proxy
-domain-suffix,duckduckgo.com,proxy
-domain-suffix,edgecastcdn.net,proxy
-domain-suffix,edgekey.net,proxy
-domain-suffix,edgesuite.net,proxy
-domain-suffix,eurekavpt.com,proxy
-domain-suffix,fastmail.com,proxy
-domain-suffix,firebaseio.com,proxy
-domain-suffix,flickr.com,proxy
-domain-suffix,flipboard.com,proxy
-domain-suffix,gfx.ms,proxy
-domain-suffix,gongm.in,proxy
-domain-suffix,hulu.com,proxy
-domain-suffix,id.heroku.com,proxy
-domain-suffix,io.io,proxy
-domain-suffix,issuu.com,proxy
-domain-suffix,ixquick.com,proxy
-domain-suffix,jtvnw.net,proxy
-domain-suffix,kat.cr,proxy
-domain-suffix,kik.com,proxy
-domain-suffix,kobo.com,proxy
-domain-suffix,kobobooks.com,proxy
-domain-suffix,licdn.com,proxy
-domain-suffix,live.net,proxy
-domain-suffix,livefilestore.com,proxy
-domain-suffix,llnwd.net,proxy
-domain-suffix,macrumors.com,proxy
-domain-suffix,medium.com,proxy
-domain-suffix,mega.nz,proxy
-domain-suffix,megaupload.com,proxy
-domain-suffix,messenger.com,proxy
-domain-suffix,netdna-cdn.com,proxy
-domain-suffix,nintendo.net,proxy
-domain-suffix,nsstatic.net,proxy
-domain-suffix,nytstyle.com,proxy
-domain-suffix,overcast.fm,proxy
-domain-suffix,openvpn.net,proxy
-domain-suffix,periscope.tv,proxy
-domain-suffix,pinimg.com,proxy
-domain-suffix,pinterest.com,proxy
-domain-suffix,potato.im,proxy
-domain-suffix,prfct.co,proxy
-domain-suffix,pscp.tv,proxy
-domain-suffix,quora.com,proxy
-domain-suffix,resilio.com,proxy
-domain-suffix,sfx.ms,proxy
-domain-suffix,shadowsocks.org,proxy
-domain-suffix,slack-edge.com,proxy
-domain-suffix,smartdnsproxy.com,proxy
-domain-suffix,sndcdn.com,proxy
-domain-suffix,soundcloud.com,proxy
-domain-suffix,startpage.com,proxy
-domain-suffix,staticflickr.com,proxy
-domain-suffix,symauth.com,proxy
-domain-suffix,symcb.com,proxy
-domain-suffix,symcd.com,proxy
-domain-suffix,textnow.com,proxy
-domain-suffix,textnow.me,proxy
-domain-suffix,thefacebook.com,proxy
-domain-suffix,thepiratebay.org,proxy
-domain-suffix,torproject.org,proxy
-domain-suffix,trustasiassl.com,proxy
-domain-suffix,tumblr.co,proxy
-domain-suffix,tumblr.com,proxy
-domain-suffix,tvb.com,proxy
-domain-suffix,txmblr.com,proxy
-domain-suffix,v2ex.com,proxy
-domain-suffix,vimeo.com,proxy
-domain-suffix,vine.co,proxy
-domain-suffix,vox-cdn.com,proxy
-domain-suffix,amazon.co.jp,proxy
-domain-suffix,amazon.com,proxy
-domain-suffix,amazonaws.com,proxy
+host-suffix,dmc.nico, proxy
+host-suffix,nicovideo.jp, proxy
+host-suffix,nimg.jp, proxy
+host-keyword,nivod, proxy
+host-suffix,biggggg.com, proxy
+host-suffix,mudvod.tv, proxy
+host-suffix,nbys.tv, proxy
+host-suffix,nbys1.tv, proxy
+host-suffix,nbyy.tv, proxy
+host-suffix,newpppp.com, proxy
+host-suffix,nivod.tv, proxy
+host-suffix,nivodi.tv, proxy
+host-suffix,nivodz.com, proxy
+host-suffix,vod360.net, proxy
+host-keyword,olevod, proxy
+host-suffix,haiwaikan.com, proxy
+host-suffix,iole.tv, proxy
+host-suffix,olehd.com, proxy
+host-suffix,olelive.com, proxy
+host-suffix,olevod.com, proxy
+host-suffix,olevod.io, proxy
+host-suffix,olevod.tv, proxy
+host-suffix,olevodtv.com, proxy
+host-keyword,openai, proxy
+host-suffix,auth0.com, proxy
+host-suffix,challenges.cloudflare.com, proxy
+host-suffix,chatgpt.com, proxy
+host-suffix,client-api.arkoselabs.com, proxy
+host-suffix,events.statsigapi.net, proxy
+host-suffix,featuregates.org, proxy
+host-suffix,identrust.com, proxy
+host-suffix,intercom.io, proxy
+host-suffix,intercomcdn.com, proxy
+host-suffix,oaistatic.com, proxy
+host-suffix,oaiusercontent.com, proxy
+host-suffix,openai.com, proxy
+host-suffix,openaiapi-site.azureedge.net, proxy
+host-suffix,sentry.io, proxy
+host-suffix,stripe.com, proxy
+host-suffix,pbs.org, proxy
+host-suffix,pandora.com, proxy
+host-suffix,phncdn.com, proxy
+host-suffix,phprcdn.com, proxy
+host-suffix,pornhub.com, proxy
+host-suffix,pornhubpremium.com, proxy
+host-suffix,qobuz.com, proxy
+host-suffix,p-cdn.us, proxy
+host-suffix,sndcdn.com, proxy
+host-suffix,soundcloud.com, proxy
+host-keyword,-spotify-, proxy
+host-keyword,spotify.com, proxy
+host-suffix,pscdn.co, proxy
+host-suffix,scdn.co, proxy
+host-suffix,spoti.fi, proxy
+host-suffix,spotify.com, proxy
+host-suffix,spotifycdn.com, proxy
+host-suffix,spotifycdn.net, proxy
+host-suffix,tidal-cms.s3.amazonaws.com, proxy
+host-suffix,tidal.com, proxy
+host-suffix,tidalhifi.com, proxy
+host,hamifans.emome.net, proxy
+host-suffix,skyking.com.tw, proxy
+host-keyword,tiktokcdn, proxy
+host-suffix,byteoversea.com, proxy
+host-suffix,ibytedtos.com, proxy
+host-suffix,ipstatp.com, proxy
+host-suffix,muscdn.com, proxy
+host-suffix,musical.ly, proxy
+host-suffix,tik-tokapi.com, proxy
+host-suffix,tiktok.com, proxy
+host-suffix,tiktokcdn.com, proxy
+host-suffix,tiktokv.com, proxy
+host-keyword,ttvnw, proxy
+host-suffix,ext-twitch.tv, proxy
+host-suffix,jtvnw.net, proxy
+host-suffix,ttvnw.net, proxy
+host-suffix,twitch-ext.rootonline.de, proxy
+host-suffix,twitch.tv, proxy
+host-suffix,twitchcdn.net, proxy
+host,api.viu.now.com, proxy
+host,d1k2us671qcoau.cloudfront.net, proxy
+host,d2anahhhmp1ffz.cloudfront.net, proxy
+host,dfp6rglgjqszk.cloudfront.net, proxy
+host-suffix,cognito-identity.us-east-1.amazonaws.com, proxy
+host-suffix,d1k2us671qcoau.cloudfront.net, proxy
+host-suffix,d2anahhhmp1ffz.cloudfront.net, proxy
+host-suffix,dfp6rglgjqszk.cloudfront.net, proxy
+host-suffix,mobileanalytics.us-east-1.amazonaws.com, proxy
+host-suffix,viu.com, proxy
+host-suffix,viu.now.com, proxy
+host-suffix,viu.tv, proxy
+host-keyword,youtube, proxy
+host,youtubei.googleapis.com, proxy
+host,yt3.ggpht.com, proxy
+host-suffix,googlevideo.com, proxy
+host-suffix,gvt2.com, proxy
+host-suffix,withyoutube.com, proxy
+host-suffix,youtu.be, proxy
+host-suffix,youtube-nocookie.com, proxy
+host-suffix,youtube.com, proxy
+host-suffix,youtubeeducation.com, proxy
+host-suffix,youtubegaming.com, proxy
+host-suffix,youtubekids.com, proxy
+host-suffix,yt.be, proxy
+host-suffix,ytimg.com, proxy
+host,music.youtube.com, proxy
+host-suffix,1password.com,proxy
+host-suffix,adguard.org,proxy
+host-suffix,bit.no.com,proxy
+host-suffix,btlibrary.me,proxy
+host-suffix,cloudcone.com,proxy
+host-suffix,dubox.com,proxy
+host-suffix,gameloft.com,proxy
+host-suffix,garena.com,proxy
+host-suffix,hoyolab.com,proxy
+host-suffix,inoreader.com,proxy
+host-suffix,ip138.com,proxy
+host-suffix,linkedin.com,proxy
+host-suffix,myteamspeak.com,proxy
+host-suffix,notion.so,proxy
+host-suffix,ping.pe,proxy
+host-suffix,reddit.com,proxy
+host-suffix,teddysun.com,proxy
+host-suffix,tumbex.com,proxy
+host-suffix,twdvd.com,proxy
+host-suffix,unsplash.com,proxy
+host-suffix,buzzsprout.com,proxy
+host-suffix,eu,proxy
+host-suffix,hk,proxy
+host-suffix,jp,proxy
+host-suffix,kr,proxy
+host-suffix,sg,proxy
+host-suffix,tw,proxy
+host-suffix,uk,proxy
+host-keyword,jinkela,proxy
+host-keyword,nbsd,proxy
+host-keyword,muguacloud,proxy
+host-keyword,biteb,proxy  
+host-keyword,1e100,proxy
+host-keyword,abema,proxy
+host-keyword,appledaily,proxy
+host-keyword,avtb,proxy
+host-keyword,beetalk,proxy
+host-keyword,blogspot,proxy
+host-keyword,dropbox,proxy
+host-keyword,facebook,proxy
+host-keyword,fbcdn,proxy
+host-keyword,github,proxy
+host-keyword,gmail,proxy
+host-keyword,google,proxy
+host-keyword,instagram,proxy
+host-keyword,porn,proxy
+host-keyword,sci-hub,proxy
+host-keyword,spotify,proxy
+host-keyword,telegram,proxy
+host-keyword,twitter,proxy
+host-keyword,whatsapp,proxy
+host-keyword,youtube,proxy
+host-suffix,4sqi.net,proxy
+host-suffix,a248.e.akamai.net,proxy
+host-suffix,adobedtm.com,proxy
+host-suffix,ampproject.org,proxy
+host-suffix,android.com,proxy
+host-suffix,aolcdn.com,proxy
+host-suffix,apkmirror.com,proxy
+host-suffix,apkpure.com,proxy
+host-suffix,app-measurement.com,proxy
+host-suffix,appspot.com,proxy
+host-suffix,archive.org,proxy
+host-suffix,armorgames.com,proxy
+host-suffix,aspnetcdn.com,proxy
+host-suffix,awsstatic.com,proxy
+host-suffix,azureedge.net,proxy
+host-suffix,azurewebsites.net,proxy
+host-suffix,bandwagonhost.com,proxy
+host-suffix,bing.com,proxy
+host-suffix,bkrtx.com,proxy
+host-suffix,blogcdn.com,proxy
+host-suffix,blogger.com,proxy
+host-suffix,blogsmithmedia.com,proxy
+host-suffix,blogspot.com,proxy
+host-suffix,blogspot.hk,proxy
+host-suffix,blogspot.jp,proxy
+host-suffix,bloomberg.cn,proxy
+host-suffix,bloomberg.com,proxy
+host-suffix,box.com,proxy
+host-suffix,cachefly.net,proxy
+host-suffix,cdnst.net,proxy
+host-suffix,cloudfront.net,proxy
+host-suffix,comodoca.com,proxy
+host-suffix,daum.net,proxy
+host-suffix,deskconnect.com,proxy
+host-suffix,disqus.com,proxy
+host-suffix,disquscdn.com,proxy
+host-suffix,dropbox.com,proxy
+host-suffix,dropboxapi.com,proxy
+host-suffix,dropboxstatic.com,proxy
+host-suffix,dropboxusercontent.com,proxy
+host-suffix,duckduckgo.com,proxy
+host-suffix,edgecastcdn.net,proxy
+host-suffix,edgekey.net,proxy
+host-suffix,edgesuite.net,proxy
+host-suffix,eurekavpt.com,proxy
+host-suffix,fastmail.com,proxy
+host-suffix,firebaseio.com,proxy
+host-suffix,flickr.com,proxy
+host-suffix,flipboard.com,proxy
+host-suffix,gfx.ms,proxy
+host-suffix,gongm.in,proxy
+host-suffix,hulu.com,proxy
+host-suffix,id.heroku.com,proxy
+host-suffix,io.io,proxy
+host-suffix,issuu.com,proxy
+host-suffix,ixquick.com,proxy
+host-suffix,jtvnw.net,proxy
+host-suffix,kat.cr,proxy
+host-suffix,kik.com,proxy
+host-suffix,kobo.com,proxy
+host-suffix,kobobooks.com,proxy
+host-suffix,licdn.com,proxy
+host-suffix,live.net,proxy
+host-suffix,livefilestore.com,proxy
+host-suffix,llnwd.net,proxy
+host-suffix,macrumors.com,proxy
+host-suffix,medium.com,proxy
+host-suffix,mega.nz,proxy
+host-suffix,megaupload.com,proxy
+host-suffix,messenger.com,proxy
+host-suffix,netdna-cdn.com,proxy
+host-suffix,nintendo.net,proxy
+host-suffix,nsstatic.net,proxy
+host-suffix,nytstyle.com,proxy
+host-suffix,overcast.fm,proxy
+host-suffix,openvpn.net,proxy
+host-suffix,periscope.tv,proxy
+host-suffix,pinimg.com,proxy
+host-suffix,pinterest.com,proxy
+host-suffix,potato.im,proxy
+host-suffix,prfct.co,proxy
+host-suffix,pscp.tv,proxy
+host-suffix,quora.com,proxy
+host-suffix,resilio.com,proxy
+host-suffix,sfx.ms,proxy
+host-suffix,shadowsocks.org,proxy
+host-suffix,slack-edge.com,proxy
+host-suffix,smartdnsproxy.com,proxy
+host-suffix,sndcdn.com,proxy
+host-suffix,soundcloud.com,proxy
+host-suffix,startpage.com,proxy
+host-suffix,staticflickr.com,proxy
+host-suffix,symauth.com,proxy
+host-suffix,symcb.com,proxy
+host-suffix,symcd.com,proxy
+host-suffix,textnow.com,proxy
+host-suffix,textnow.me,proxy
+host-suffix,thefacebook.com,proxy
+host-suffix,thepiratebay.org,proxy
+host-suffix,torproject.org,proxy
+host-suffix,trustasiassl.com,proxy
+host-suffix,tumblr.co,proxy
+host-suffix,tumblr.com,proxy
+host-suffix,tvb.com,proxy
+host-suffix,txmblr.com,proxy
+host-suffix,v2ex.com,proxy
+host-suffix,vimeo.com,proxy
+host-suffix,vine.co,proxy
+host-suffix,vox-cdn.com,proxy
+host-suffix,amazon.co.jp,proxy
+host-suffix,amazon.com,proxy
+host-suffix,amazonaws.com,proxy
 ip-cidr,13.32.0.0/15,proxy,no-resolve
 ip-cidr,13.35.0.0/17,proxy,no-resolve
 ip-cidr,18.184.0.0/15,proxy,no-resolve
@@ -627,49 +627,49 @@ ip-cidr,54.93.0.0/16,proxy,no-resolve
 ip-cidr,54.156.0.0/14,proxy,no-resolve
 ip-cidr,54.226.0.0/15,proxy,no-resolve
 ip-cidr,54.230.156.0/22,proxy,no-resolve
-domain-keyword,uk-live,proxy
-domain-suffix,bbc.co,proxy
-domain-suffix,bbc.com,proxy
-domain-suffix,claude.ai,proxy
-domain-suffix,anthropic.com,proxy
-domain-suffix,apache.org,proxy
-domain-suffix,docker.com,proxy
-domain-suffix,docker.io,proxy
-domain-suffix,elastic.co,proxy
-domain-suffix,elastic.com,proxy
-domain-suffix,gcr.io,proxy
-domain-suffix,gitlab.com,proxy
-domain-suffix,gitlab.io,proxy
-domain-suffix,jitpack.io,proxy
-domain-suffix,maven.org,proxy
-domain-suffix,medium.com,proxy
-domain-suffix,mvnrepository.com,proxy
-domain-suffix,quay.io,proxy
-domain-suffix,reddit.com,proxy
-domain-suffix,redhat.com,proxy
-domain-suffix,sonatype.org,proxy
-domain-suffix,sourcegraph.com,proxy
-domain-suffix,spring.io,proxy
-domain-suffix,spring.net,proxy
-domain-suffix,stackoverflow.com,proxy
-domain,d1q6f0aelx0por.cloudfront.net,proxy
-domain,d2wy8f7a9ursnm.cloudfront.net,proxy
-domain,d36jcksde1wxzq.cloudfront.net,proxy
-domain-suffix,compose-spec.io,proxy
-domain-suffix,docker.com,proxy
-domain-suffix,docker.io,proxy
-domain-suffix,dockerhub.com,proxy
-domain-suffix,discord.co,proxy
-domain-suffix,discord.com,proxy
-domain-suffix,discord.gg,proxy
-domain-suffix,discord.media,proxy
-domain-suffix,discordapp.com,proxy
-domain-suffix,discordapp.net,proxy
-domain-suffix,facebook.com,proxy
-domain-suffix,fb.com,proxy
-domain-suffix,fb.me,proxy
-domain-suffix,fbcdn.com,proxy
-domain-suffix,fbcdn.net,proxy
+host-keyword,uk-live,proxy
+host-suffix,bbc.co,proxy
+host-suffix,bbc.com,proxy
+host-suffix,claude.ai,proxy
+host-suffix,anthropic.com,proxy
+host-suffix,apache.org,proxy
+host-suffix,docker.com,proxy
+host-suffix,docker.io,proxy
+host-suffix,elastic.co,proxy
+host-suffix,elastic.com,proxy
+host-suffix,gcr.io,proxy
+host-suffix,gitlab.com,proxy
+host-suffix,gitlab.io,proxy
+host-suffix,jitpack.io,proxy
+host-suffix,maven.org,proxy
+host-suffix,medium.com,proxy
+host-suffix,mvnrepository.com,proxy
+host-suffix,quay.io,proxy
+host-suffix,reddit.com,proxy
+host-suffix,redhat.com,proxy
+host-suffix,sonatype.org,proxy
+host-suffix,sourcegraph.com,proxy
+host-suffix,spring.io,proxy
+host-suffix,spring.net,proxy
+host-suffix,stackoverflow.com,proxy
+host,d1q6f0aelx0por.cloudfront.net,proxy
+host,d2wy8f7a9ursnm.cloudfront.net,proxy
+host,d36jcksde1wxzq.cloudfront.net,proxy
+host-suffix,compose-spec.io,proxy
+host-suffix,docker.com,proxy
+host-suffix,docker.io,proxy
+host-suffix,dockerhub.com,proxy
+host-suffix,discord.co,proxy
+host-suffix,discord.com,proxy
+host-suffix,discord.gg,proxy
+host-suffix,discord.media,proxy
+host-suffix,discordapp.com,proxy
+host-suffix,discordapp.net,proxy
+host-suffix,facebook.com,proxy
+host-suffix,fb.com,proxy
+host-suffix,fb.me,proxy
+host-suffix,fbcdn.com,proxy
+host-suffix,fbcdn.net,proxy
 ip-cidr,31.13.24.0/21,proxy,no-resolve
 ip-cidr,31.13.64.0/18,proxy,no-resolve
 ip-cidr,45.64.40.0/22,proxy,no-resolve
@@ -684,31 +684,31 @@ ip-cidr,173.252.64.0/18,proxy,no-resolve
 ip-cidr,179.60.192.0/22,proxy,no-resolve
 ip-cidr,185.60.216.0/22,proxy,no-resolve
 ip-cidr,204.15.20.0/22,proxy,no-resolve
-domain-suffix,github.com,proxy
-domain-suffix,github.io,proxy
-domain-suffix,githubapp.com,proxy
-domain-suffix,githubassets.com,proxy
-domain-suffix,githubusercontent.com,proxy
-domain-suffix,1e100.net,proxy
-domain-suffix,2mdn.net,proxy
-domain-suffix,app-measurement.net,proxy
-domain-suffix,g.co,proxy
-domain-suffix,ggpht.com,proxy
-domain-suffix,goo.gl,proxy
-domain-suffix,googleapis.cn,proxy
-domain-suffix,googleapis.com,proxy
-domain-suffix,gstatic.cn,proxy
-domain-suffix,gstatic.com,proxy
-domain-suffix,gvt0.com,proxy
-domain-suffix,gvt1.com,proxy
-domain-suffix,gvt2.com,proxy
-domain-suffix,gvt3.com,proxy
-domain-suffix,xn--ngstr-lra8j.com,proxy
-domain-suffix,youtu.be,proxy
-domain-suffix,youtube-nocookie.com,proxy
-domain-suffix,youtube.com,proxy
-domain-suffix,yt.be,proxy
-domain-suffix,ytimg.com,proxy
+host-suffix,github.com,proxy
+host-suffix,github.io,proxy
+host-suffix,githubapp.com,proxy
+host-suffix,githubassets.com,proxy
+host-suffix,githubusercontent.com,proxy
+host-suffix,1e100.net,proxy
+host-suffix,2mdn.net,proxy
+host-suffix,app-measurement.net,proxy
+host-suffix,g.co,proxy
+host-suffix,ggpht.com,proxy
+host-suffix,goo.gl,proxy
+host-suffix,googleapis.cn,proxy
+host-suffix,googleapis.com,proxy
+host-suffix,gstatic.cn,proxy
+host-suffix,gstatic.com,proxy
+host-suffix,gvt0.com,proxy
+host-suffix,gvt1.com,proxy
+host-suffix,gvt2.com,proxy
+host-suffix,gvt3.com,proxy
+host-suffix,xn--ngstr-lra8j.com,proxy
+host-suffix,youtu.be,proxy
+host-suffix,youtube-nocookie.com,proxy
+host-suffix,youtube.com,proxy
+host-suffix,yt.be,proxy
+host-suffix,ytimg.com,proxy
 ip-cidr,74.125.0.0/16,proxy,no-resolve
 ip-cidr,173.194.0.0/16,proxy,no-resolve
 ip-cidr,120.232.181.162/32,proxy,no-resolve
@@ -729,26 +729,26 @@ ip-cidr,203.208.50.0/24,proxy,no-resolve
 ip-cidr,220.181.174.162/32,proxy,no-resolve
 ip-cidr,220.181.174.226/32,proxy,no-resolve
 ip-cidr,220.181.174.34/32,proxy,no-resolve
-domain-suffix,cdninstagram.com,proxy
-domain-suffix,instagram.com,proxy
-domain-suffix,instagr.am,proxy
-domain-suffix,iwara.tv,proxy
-domain-suffix,kakao.com,proxy
-domain-suffix,kakao.co.kr,proxy
-domain-suffix,kakaocdn.net,proxy
+host-suffix,cdninstagram.com,proxy
+host-suffix,instagram.com,proxy
+host-suffix,instagr.am,proxy
+host-suffix,iwara.tv,proxy
+host-suffix,kakao.com,proxy
+host-suffix,kakao.co.kr,proxy
+host-suffix,kakaocdn.net,proxy
 ip-cidr,1.201.0.0/24,proxy,no-resolve
 ip-cidr,27.0.236.0/22,proxy,no-resolve
 ip-cidr,103.27.148.0/22,proxy,no-resolve
 ip-cidr,103.246.56.0/22,proxy,no-resolve
 ip-cidr,110.76.140.0/22,proxy,no-resolve
 ip-cidr,113.61.104.0/22,proxy,no-resolve
-domain-suffix,lin.ee,proxy
-domain-suffix,line-apps.com,proxy
-domain-suffix,line-cdn.net,proxy
-domain-suffix,line-scdn.net,proxy
-domain-suffix,line.me,proxy
-domain-suffix,line.naver.jp,proxy
-domain-suffix,nhncorp.jp,proxy
+host-suffix,lin.ee,proxy
+host-suffix,line-apps.com,proxy
+host-suffix,line-cdn.net,proxy
+host-suffix,line-scdn.net,proxy
+host-suffix,line.me,proxy
+host-suffix,line.naver.jp,proxy
+host-suffix,nhncorp.jp,proxy
 ip-cidr,103.2.28.0/24,proxy,no-resolve
 ip-cidr,103.2.30.0/23,proxy,no-resolve
 ip-cidr,119.235.224.0/24,proxy,no-resolve
@@ -757,94 +757,94 @@ ip-cidr,119.235.235.0/24,proxy,no-resolve
 ip-cidr,119.235.236.0/23,proxy,no-resolve
 ip-cidr,147.92.128.0/17,proxy,no-resolve
 ip-cidr,203.104.128.0/19,proxy,no-resolve
-domain-suffix,openai.com,proxy
-domain-suffix,challenges.cloudflare.com,proxy
-domain-keyword,1drv,proxy
-domain-keyword,onedrive,proxy
-domain-keyword,skydrive,proxy
-domain-suffix,livefilestore.com,proxy
-domain-suffix,oneclient.sfx.ms,proxy
-domain-suffix,onedrive.com,proxy
-domain-suffix,onedrive.live.com,proxy
-domain-suffix,photos.live.com,proxy
-domain-suffix,skydrive.wns.windows.com,proxy
-domain-suffix,spoprod-a.akamaihd.net,proxy
-domain-suffix,storage.live.com,proxy
-domain-suffix,storage.msn.com,proxy
-domain-keyword,porn,proxy
-domain-suffix,8teenxxx.com,proxy
-domain-suffix,ahcdn.com,proxy
-domain-suffix,bcvcdn.com,proxy
-domain-suffix,bongacams.com,proxy
-domain-suffix,chaturbate.com,proxy
-domain-suffix,dditscdn.com,proxy
-domain-suffix,livejasmin.com,proxy
-domain-suffix,phncdn.com,proxy
-domain-suffix,phprcdn.com,proxy
-domain-suffix,pornhub.com,proxy
-domain-suffix,pornhubpremium.com,proxy
-domain-suffix,rdtcdn.com,proxy
-domain-suffix,redtube.com,proxy
-domain-suffix,sb-cd.com,proxy
-domain-suffix,spankbang.com,proxy
-domain-suffix,t66y.com,proxy
-domain-suffix,xhamster.com,proxy
-domain-suffix,xnxx-cdn.com,proxy
-domain-suffix,xnxx.com,proxy
-domain-suffix,xvideos-cdn.com,proxy
-domain-suffix,xvideos.com,proxy
-domain-suffix,ypncdn.com,proxy
-domain-suffix,pixiv.net,proxy
-domain-suffix,pximg.net,proxy
-domain-suffix,fanbox.cc,proxy
-domain-suffix,amplitude.com,proxy
-domain-suffix,firebaseio.com,proxy
-domain-suffix,hockeyapp.net,proxy
-domain-suffix,readdle.com,proxy
-domain-suffix,smartmailcloud.com,proxy
-domain-suffix,fanatical.com,proxy
-domain-suffix,humblebundle.com,proxy
-domain-suffix,underlords.com,proxy
-domain-suffix,valvesoftware.com,proxy
-domain-suffix,playartifact.com,proxy
-domain-suffix,steam-chat.com,proxy
-domain-suffix,steamcommunity.com,proxy
-domain-suffix,steamgames.com,proxy
-domain-suffix,steampowered.com,proxy
-domain-suffix,steamserver.net,proxy
-domain-suffix,steamstatic.com,proxy
-domain-suffix,steamstat.us,proxy
-domain,steambroadcast.akamaized.net,proxy
-domain,steamcommunity-a.akamaihd.net,proxy
-domain,steamstore-a.akamaihd.net,proxy
-domain,steamusercontent-a.akamaihd.net,proxy
-domain,steamuserimages-a.akamaihd.net,proxy
-domain,steampipe.akamaized.net,proxy
-domain-suffix,tap.io,proxy
-domain-suffix,taptap.tw,proxy
-domain-suffix,twitch.tv,proxy
-domain-suffix,ttvnw.net,proxy
-domain-suffix,jtvnw.net,proxy
-domain-keyword,ttvnw,proxy
-domain-suffix,t.co,proxy
-domain-suffix,twimg.co,proxy
-domain-suffix,twimg.com,proxy
-domain-suffix,twimg.org,proxy
-domain-suffix,x.com,proxy
-domain-suffix,t.me,proxy
-domain-suffix,tdesktop.com,proxy
-domain-suffix,telegra.ph,proxy
-domain-suffix,telegram.me,proxy
-domain-suffix,telegram.org,proxy
-domain-suffix,telesco.pe,proxy
+host-suffix,openai.com,proxy
+host-suffix,challenges.cloudflare.com,proxy
+host-keyword,1drv,proxy
+host-keyword,onedrive,proxy
+host-keyword,skydrive,proxy
+host-suffix,livefilestore.com,proxy
+host-suffix,oneclient.sfx.ms,proxy
+host-suffix,onedrive.com,proxy
+host-suffix,onedrive.live.com,proxy
+host-suffix,photos.live.com,proxy
+host-suffix,skydrive.wns.windows.com,proxy
+host-suffix,spoprod-a.akamaihd.net,proxy
+host-suffix,storage.live.com,proxy
+host-suffix,storage.msn.com,proxy
+host-keyword,porn,proxy
+host-suffix,8teenxxx.com,proxy
+host-suffix,ahcdn.com,proxy
+host-suffix,bcvcdn.com,proxy
+host-suffix,bongacams.com,proxy
+host-suffix,chaturbate.com,proxy
+host-suffix,dditscdn.com,proxy
+host-suffix,livejasmin.com,proxy
+host-suffix,phncdn.com,proxy
+host-suffix,phprcdn.com,proxy
+host-suffix,pornhub.com,proxy
+host-suffix,pornhubpremium.com,proxy
+host-suffix,rdtcdn.com,proxy
+host-suffix,redtube.com,proxy
+host-suffix,sb-cd.com,proxy
+host-suffix,spankbang.com,proxy
+host-suffix,t66y.com,proxy
+host-suffix,xhamster.com,proxy
+host-suffix,xnxx-cdn.com,proxy
+host-suffix,xnxx.com,proxy
+host-suffix,xvideos-cdn.com,proxy
+host-suffix,xvideos.com,proxy
+host-suffix,ypncdn.com,proxy
+host-suffix,pixiv.net,proxy
+host-suffix,pximg.net,proxy
+host-suffix,fanbox.cc,proxy
+host-suffix,amplitude.com,proxy
+host-suffix,firebaseio.com,proxy
+host-suffix,hockeyapp.net,proxy
+host-suffix,readdle.com,proxy
+host-suffix,smartmailcloud.com,proxy
+host-suffix,fanatical.com,proxy
+host-suffix,humblebundle.com,proxy
+host-suffix,underlords.com,proxy
+host-suffix,valvesoftware.com,proxy
+host-suffix,playartifact.com,proxy
+host-suffix,steam-chat.com,proxy
+host-suffix,steamcommunity.com,proxy
+host-suffix,steamgames.com,proxy
+host-suffix,steampowered.com,proxy
+host-suffix,steamserver.net,proxy
+host-suffix,steamstatic.com,proxy
+host-suffix,steamstat.us,proxy
+host,steambroadcast.akamaized.net,proxy
+host,steamcommunity-a.akamaihd.net,proxy
+host,steamstore-a.akamaihd.net,proxy
+host,steamusercontent-a.akamaihd.net,proxy
+host,steamuserimages-a.akamaihd.net,proxy
+host,steampipe.akamaized.net,proxy
+host-suffix,tap.io,proxy
+host-suffix,taptap.tw,proxy
+host-suffix,twitch.tv,proxy
+host-suffix,ttvnw.net,proxy
+host-suffix,jtvnw.net,proxy
+host-keyword,ttvnw,proxy
+host-suffix,t.co,proxy
+host-suffix,twimg.co,proxy
+host-suffix,twimg.com,proxy
+host-suffix,twimg.org,proxy
+host-suffix,x.com,proxy
+host-suffix,t.me,proxy
+host-suffix,tdesktop.com,proxy
+host-suffix,telegra.ph,proxy
+host-suffix,telegram.me,proxy
+host-suffix,telegram.org,proxy
+host-suffix,telesco.pe,proxy
 ip-cidr,91.108.0.0/16,proxy,no-resolve
 ip-cidr,109.239.140.0/24,proxy,no-resolve
 ip-cidr,149.154.160.0/20,proxy,no-resolve
 ip6-cidr,2001:67c:4e8::/48,proxy,no-resolve
 ip6-cidr,2001:b28:f23d::/48,proxy,no-resolve
 ip6-cidr,2001:b28:f23f::/48,proxy,no-resolve
-domain-suffix,terabox.com,proxy
-domain-suffix,teraboxcdn.com,proxy
+host-suffix,terabox.com,proxy
+host-suffix,teraboxcdn.com,proxy
 ip-cidr,18.194.0.0/15,proxy,no-resolve
 ip-cidr,34.224.0.0/12,proxy,no-resolve
 ip-cidr,54.242.0.0/15,proxy,no-resolve
@@ -861,33 +861,33 @@ ip-cidr,158.85.224.160/27,proxy,no-resolve
 ip-cidr,75.126.150.0/16,proxy,no-resolve
 ip-cidr,69.171.235.0/16,proxy,no-resolve
 
-domain-suffix,mediawiki.org, proxy
-domain-suffix,wikibooks.org, proxy
-domain-suffix,wikidata.org, proxy
-domain-suffix,wikileaks.org, proxy
-domain-suffix,wikimedia.org, proxy
-domain-suffix,wikinews.org, proxy
-domain-suffix,wikipedia.org, proxy
-domain-suffix,wikiquote.org, proxy
-domain-suffix,wikisource.org, proxy
-domain-suffix,wikiversity.org, proxy
-domain-suffix,wikivoyage.org, proxy
-domain-suffix,wiktionary.org, proxy
-domain-suffix,zoom.us, proxy
-domain-suffix,zoomgov.com, proxy
-domain-suffix,neulion.com, proxy
-domain-suffix,icntv.xyz, proxy
-domain-suffix,flzbcdn.xyz, proxy
-domain-suffix,ocnttv.com, proxy
-domain-suffix,vikacg.com, proxy
-domain-suffix,picjs.xyz, proxy
+host-suffix,mediawiki.org, proxy
+host-suffix,wikibooks.org, proxy
+host-suffix,wikidata.org, proxy
+host-suffix,wikileaks.org, proxy
+host-suffix,wikimedia.org, proxy
+host-suffix,wikinews.org, proxy
+host-suffix,wikipedia.org, proxy
+host-suffix,wikiquote.org, proxy
+host-suffix,wikisource.org, proxy
+host-suffix,wikiversity.org, proxy
+host-suffix,wikivoyage.org, proxy
+host-suffix,wiktionary.org, proxy
+host-suffix,zoom.us, proxy
+host-suffix,zoomgov.com, proxy
+host-suffix,neulion.com, proxy
+host-suffix,icntv.xyz, proxy
+host-suffix,flzbcdn.xyz, proxy
+host-suffix,ocnttv.com, proxy
+host-suffix,vikacg.com, proxy
+host-suffix,picjs.xyz, proxy
 
-domain-suffix,acl4.ssr, direct
-domain-suffix,ip6-localhost, direct
-domain-suffix,ip6-loopback, direct
-domain-suffix,lan, direct
-domain-suffix,local, direct
-domain-suffix,localhost, direct
+host-suffix,acl4.ssr, direct
+host-suffix,ip6-localhost, direct
+host-suffix,ip6-loopback, direct
+host-suffix,lan, direct
+host-suffix,local, direct
+host-suffix,localhost, direct
 ip-cidr,0.0.0.0/8, direct
 ip-cidr,10.0.0.0/8, direct
 ip-cidr,100.64.0.0/10, direct
@@ -900,823 +900,823 @@ ip6-cidr,::1/128, direct
 ip6-cidr,fc00::/7, direct
 ip6-cidr,fe80::/10, direct
 ip6-cidr,fd00::/8, direct
-domain,instant.arubanetworks.com, direct
-domain,setmeup.arubanetworks.com, direct
-domain,router.asus.com, direct
-domain,www.asusrouter.com, direct
-domain-suffix,hiwifi.com, direct
-domain-suffix,leike.cc, direct
-domain-suffix,miwifi.com, direct
-domain-suffix,my.router, direct
-domain-suffix,p.to, direct
-domain-suffix,peiluyou.com, direct
-domain-suffix,phicomm.me, direct
-domain-suffix,router.ctc, direct
-domain-suffix,routerlogin.com, direct
-domain-suffix,tendawifi.com, direct
-domain-suffix,zte.home, direct
-domain-suffix,tplogin.cn, direct
-domain-suffix,wifi.cmcc, direct
-domain-suffix,ol.epicgames.com, direct
-domain-suffix,dizhensubao.getui.com, direct
-domain,dl.google.com, direct
-domain-suffix,googletraveladservices.com, direct
-domain-suffix,tracking-protection.cdn.mozilla.net, direct
-domain,origin-a.akamaihd.net, direct
-domain,fairplay.l.qq.com, direct
-domain,livew.l.qq.com, direct
-domain,vd.l.qq.com, direct
-domain,errlog.umeng.com, direct
-domain,msg.umeng.com, direct
-domain,msg.umengcloud.com, direct
-domain,tracking.miui.com, direct
-domain,app.adjust.com, direct
-domain,bdtj.tagtic.cn, direct
-domain,rewards.hypixel.net, direct
-domain-suffix,koodomobile.com, direct
-domain-suffix,koodomobile.ca, direct
-domain-suffix,synology.me, direct
-domain-suffix,DiskStation.me, direct
-domain-suffix,i234.me, direct
-domain-suffix,myDS.me, direct
-domain-suffix,DSCloud.biz, direct
-domain-suffix,DSCloud.me, direct
-domain-suffix,DSCloud.mobi, direct
-domain-suffix,DSmyNAS.com, direct
-domain-suffix,DSmyNAS.net, direct
-domain-suffix,DSmyNAS.org, direct
-domain-suffix,FamilyDS.com, direct
-domain-suffix,FamilyDS.net, direct
-domain-suffix,FamilyDS.org, direct
+host,instant.arubanetworks.com, direct
+host,setmeup.arubanetworks.com, direct
+host,router.asus.com, direct
+host,www.asusrouter.com, direct
+host-suffix,hiwifi.com, direct
+host-suffix,leike.cc, direct
+host-suffix,miwifi.com, direct
+host-suffix,my.router, direct
+host-suffix,p.to, direct
+host-suffix,peiluyou.com, direct
+host-suffix,phicomm.me, direct
+host-suffix,router.ctc, direct
+host-suffix,routerlogin.com, direct
+host-suffix,tendawifi.com, direct
+host-suffix,zte.home, direct
+host-suffix,tplogin.cn, direct
+host-suffix,wifi.cmcc, direct
+host-suffix,ol.epicgames.com, direct
+host-suffix,dizhensubao.getui.com, direct
+host,dl.google.com, direct
+host-suffix,googletraveladservices.com, direct
+host-suffix,tracking-protection.cdn.mozilla.net, direct
+host,origin-a.akamaihd.net, direct
+host,fairplay.l.qq.com, direct
+host,livew.l.qq.com, direct
+host,vd.l.qq.com, direct
+host,errlog.umeng.com, direct
+host,msg.umeng.com, direct
+host,msg.umengcloud.com, direct
+host,tracking.miui.com, direct
+host,app.adjust.com, direct
+host,bdtj.tagtic.cn, direct
+host,rewards.hypixel.net, direct
+host-suffix,koodomobile.com, direct
+host-suffix,koodomobile.ca, direct
+host-suffix,synology.me, direct
+host-suffix,DiskStation.me, direct
+host-suffix,i234.me, direct
+host-suffix,myDS.me, direct
+host-suffix,DSCloud.biz, direct
+host-suffix,DSCloud.me, direct
+host-suffix,DSCloud.mobi, direct
+host-suffix,DSmyNAS.com, direct
+host-suffix,DSmyNAS.net, direct
+host-suffix,DSmyNAS.org, direct
+host-suffix,FamilyDS.com, direct
+host-suffix,FamilyDS.net, direct
+host-suffix,FamilyDS.org, direct
 
-domain-suffix,13th.tech, direct
-domain-suffix,423down.com, direct
-domain-suffix,bokecc.com, direct
-domain-suffix,chaipip.com, direct
-domain-suffix,chinaplay.store, direct
-domain-suffix,hrtsea.com, direct
-domain-suffix,kaikeba.com, direct
-domain-suffix,laomo.me, direct
-domain-suffix,mpyit.com, direct
-domain-suffix,msftconnecttest.com, direct
-domain-suffix,msftncsi.com, direct
-domain-suffix,qupu123.com, direct
-domain-suffix,pdfwifi.com, direct
-domain-suffix,zhenguanyu.biz, direct
-domain-suffix,zhenguanyu.com, direct
-domain-suffix,snapdrop.net, direct
-domain-suffix,tebex.io, direct
-domain-suffix,cn, direct
-domain-suffix,xn--fiqs8s, direct
-domain-suffix,xn--55qx5d, direct
-domain-suffix,xn--io0a7i, direct
-domain-keyword,360buy, direct
-domain-keyword,alicdn, direct
-domain-keyword,alimama, direct
-domain-keyword,alipay, direct
-domain-keyword,appzapp, direct
-domain-keyword,baidupcs, direct
-domain-keyword,bilibili, direct
-domain-keyword,ccgslb, direct
-domain-keyword,chinacache, direct
-domain-keyword,duobao, direct
-domain-keyword,jdpay, direct
-domain-keyword,moke, direct
-domain-keyword,qhimg, direct
-domain-keyword,vpimg, direct
-domain-keyword,xiami, direct
-domain-keyword,xiaomi, direct
-domain-suffix,360.com, direct
-domain-suffix,360kuai.com, direct
-domain-suffix,360safe.com, direct
-domain-suffix,dhrest.com, direct
-domain-suffix,qhres.com, direct
-domain-suffix,qhstatic.com, direct
-domain-suffix,qhupdate.com, direct
-domain-suffix,so.com, direct
-domain-suffix,4399.com, direct
-domain-suffix,4399pk.com, direct
-domain-suffix,5054399.com, direct
-domain-suffix,img4399.com, direct
-domain-suffix,58.com, direct
-domain-suffix,1688.com, direct
-domain-suffix,aliapp.org, direct
-domain-suffix,alibaba.com, direct
-domain-suffix,alibabacloud.com, direct
-domain-suffix,alibabausercontent.com, direct
-domain-suffix,alicdn.com, direct
-domain-suffix,alicloudccp.com, direct
-domain-suffix,aliexpress.com, direct
-domain-suffix,aliimg.com, direct
-domain-suffix,alikunlun.com, direct
-domain-suffix,alipay.com, direct
-domain-suffix,alipayobjects.com, direct
-domain-suffix,alisoft.com, direct
-domain-suffix,aliyun.com, direct
-domain-suffix,aliyuncdn.com, direct
-domain-suffix,aliyuncs.com, direct
-domain-suffix,aliyundrive.com, direct
-domain-suffix,aliyundrive.net, direct
-domain-suffix,amap.com, direct
-domain-suffix,autonavi.com, direct
-domain-suffix,dingtalk.com, direct
-domain-suffix,ele.me, direct
-domain-suffix,hichina.com, direct
-domain-suffix,mmstat.com, direct
-domain-suffix,mxhichina.com, direct
-domain-suffix,soku.com, direct
-domain-suffix,taobao.com, direct
-domain-suffix,taobaocdn.com, direct
-domain-suffix,tbcache.com, direct
-domain-suffix,tbcdn.com, direct
-domain-suffix,tmall.com, direct
-domain-suffix,tmall.hk, direct
-domain-suffix,ucweb.com, direct
-domain-suffix,xiami.com, direct
-domain-suffix,xiami.net, direct
-domain-suffix,ykimg.com, direct
-domain-suffix,youku.com, direct
-domain-suffix,qwen.ai, direct
-domain-suffix,baidu.com, direct
-domain-suffix,baidubcr.com, direct
-domain-suffix,baidupcs.com, direct
-domain-suffix,baidustatic.com, direct
-domain-suffix,bcebos.com, direct
-domain-suffix,bdimg.com, direct
-domain-suffix,bdstatic.com, direct
-domain-suffix,bdurl.net, direct
-domain-suffix,hao123.com, direct
-domain-suffix,hao123img.com, direct
-domain-suffix,jomodns.com, direct
-domain-suffix,yunjiasu-cdn.net, direct
-domain-suffix,acg.tv, direct
-domain-suffix,acgvideo.com, direct
-domain-suffix,b23.tv, direct
-domain-suffix,bigfun.cn, direct
-domain-suffix,bigfunapp.cn, direct
-domain-suffix,biliapi.com, direct
-domain-suffix,biliapi.net, direct
-domain-suffix,bilibili.com, direct
-domain-suffix,bilibili.co, direct
-domain-suffix,biliintl.co, direct
-domain-suffix,biligame.com, direct
-domain-suffix,biligame.net, direct
-domain-suffix,bilivideo.com, direct
-domain-suffix,bilivideo.cn, direct
-domain-suffix,hdslb.com, direct
-domain-suffix,im9.com, direct
-domain-suffix,smtcdns.net, direct
-domain-suffix,amemv.com, direct
-domain-suffix,bdxiguaimg.com, direct
-domain-suffix,bdxiguastatic.com, direct
-domain-suffix,byted-static.com, direct
-domain-suffix,bytedance.com, direct
-domain-suffix,bytedance.net, direct
-domain-suffix,bytedns.net, direct
-domain-suffix,bytednsdoc.com, direct
-domain-suffix,bytegoofy.com, direct
-domain-suffix,byteimg.com, direct
-domain-suffix,bytescm.com, direct
-domain-suffix,bytetos.com, direct
-domain-suffix,bytexservice.com, direct
-domain-suffix,douyin.com, direct
-domain-suffix,douyincdn.com, direct
-domain-suffix,douyinpic.com, direct
-domain-suffix,douyinstatic.com, direct
-domain-suffix,douyinvod.com, direct
-domain-suffix,feelgood.cn, direct
-domain-suffix,feiliao.com, direct
-domain-suffix,gifshow.com, direct
-domain-suffix,huoshan.com, direct
-domain-suffix,huoshanzhibo.com, direct
-domain-suffix,ibytedapm.com, direct
-domain-suffix,iesdouyin.com, direct
-domain-suffix,ixigua.com, direct
-domain-suffix,kspkg.com, direct
-domain-suffix,pstatp.com, direct
-domain-suffix,snssdk.com, direct
-domain-suffix,toutiao.com, direct
-domain-suffix,toutiao13.com, direct
-domain-suffix,toutiaoapi.com, direct
-domain-suffix,toutiaocdn.com, direct
-domain-suffix,toutiaocdn.net, direct
-domain-suffix,toutiaocloud.com, direct
-domain-suffix,toutiaohao.com, direct
-domain-suffix,toutiaohao.net, direct
-domain-suffix,toutiaoimg.com, direct
-domain-suffix,toutiaopage.com, direct
-domain-suffix,wukong.com, direct
-domain-suffix,zijieapi.com, direct
-domain-suffix,zijieimg.com, direct
-domain-suffix,zjbyte.com, direct
-domain-suffix,zjcdn.com, direct
-domain-suffix,cctv.com, direct
-domain-suffix,cctvpic.com, direct
-domain-suffix,livechina.com, direct
-domain,auth.wosms.cn, direct
-domain,config.cmpassport.com, direct
-domain,enrichgw.10010.com, direct
-domain,hmrz.wo.cn, direct
-domain,id.mail.wo.cn, direct
-domain,log.cmpassport.com, direct
-domain,log1.cmpassport.com, direct
-domain,mdn.open.wo.cn, direct
-domain,nishub1.10010.com, direct
-domain,opencloud.wostore.cn, direct
-domain,ye.dun.163yun.com, direct
-domain-suffix,auth.wo.cn, direct
-domain-suffix,cmpassport.com, direct
-domain-suffix,id6.me, direct
-domain-suffix,mob.com, direct
-domain-suffix,open.e.189.cn, direct
-domain-suffix,21cn.com, direct
-domain-suffix,didialift.com, direct
-domain-suffix,didiglobal.com, direct
-domain-suffix,udache.com, direct
-domain-suffix,bytefcdnrd.com, direct
-domain-suffix,edgesrv.com, direct
-domain-suffix,douyu.com, direct
-domain-suffix,douyu.tv, direct
-domain-suffix,douyucdn.cn, direct
-domain-suffix,douyuscdn.com, direct
-domain-suffix,douyutv.com, direct
-domain-suffix,epicgames.com, direct
-domain-suffix,epicgames.dev, direct
-domain-suffix,helpshift.com, direct
-domain-suffix,paragon.com, direct
-domain-suffix,unrealengine.com, direct
-domain-suffix,dbankcdn.com, direct
-domain-suffix,hc-cdn.com, direct
-domain-suffix,hicloud.com, direct
-domain-suffix,hihonor.com, direct
-domain-suffix,huawei.com, direct
-domain-suffix,huaweicloud.com, direct
-domain-suffix,huaweishop.net, direct
-domain-suffix,hwccpc.com, direct
-domain-suffix,vmall.com, direct
-domain-suffix,vmallres.com, direct
-domain-suffix,allawnfs.com, direct
-domain-suffix,allawno.com, direct
-domain-suffix,allawntech.com, direct
-domain-suffix,coloros.com, direct
-domain-suffix,heytap.com, direct
-domain-suffix,heytapcs.com, direct
-domain-suffix,heytapdownload.com, direct
-domain-suffix,heytapimage.com, direct
-domain-suffix,heytapmobi.com, direct
-domain-suffix,oppo.com, direct
-domain-suffix,oppoer.me, direct
-domain-suffix,oppomobile.com, direct
-domain-suffix,iflyink.com, direct
-domain-suffix,iflyrec.com, direct
-domain-suffix,iflytek.com, direct
-domain-suffix,71.am, direct
-domain-suffix,71edge.com, direct
-domain-suffix,iqiyi.com, direct
-domain-suffix,iqiyipic.com, direct
-domain-suffix,ppsimg.com, direct
-domain-suffix,qiyi.com, direct
-domain-suffix,qiyipic.com, direct
-domain-suffix,qy.net, direct
-domain-suffix,360buy.com, direct
-domain-suffix,360buyimg.com, direct
-domain-suffix,jcloudcs.com, direct
-domain-suffix,jd.com, direct
-domain-suffix,jd.hk, direct
-domain-suffix,jdcloud.com, direct
-domain-suffix,jdpay.com, direct
-domain-suffix,paipai.com, direct
-domain-suffix,iciba.com, direct
-domain-suffix,ksosoft.com, direct
-domain-suffix,ksyun.com, direct
-domain-suffix,kuaishou.com, direct
-domain-suffix,yximgs.com, direct
-domain-suffix,meitu.com, direct
-domain-suffix,meitudata.com, direct
-domain-suffix,meitustat.com, direct
-domain-suffix,meipai.com, direct
-domain-suffix,le.com, direct
-domain-suffix,lecloud.com, direct
-domain-suffix,letv.com, direct
-domain-suffix,letvcloud.com, direct
-domain-suffix,letvimg.com, direct
-domain-suffix,letvlive.com, direct
-domain-suffix,letvstore.com, direct
-domain-suffix,hitv.com, direct
-domain-suffix,hunantv.com, direct
-domain-suffix,mgtv.com, direct
-domain-suffix,duokan.com, direct
-domain-suffix,mi-img.com, direct
-domain-suffix,mi.com, direct
-domain-suffix,miui.com, direct
-domain-suffix,xiaomi.com, direct
-domain-suffix,xiaomi.net, direct
-domain-suffix,xiaomicp.com, direct
-domain-suffix,126.com, direct
-domain-suffix,126.net, direct
-domain-suffix,127.net, direct
-domain-suffix,163.com, direct
-domain-suffix,163yun.com, direct
-domain-suffix,lofter.com, direct
-domain-suffix,netease.com, direct
-domain-suffix,ydstatic.com, direct
-domain-suffix,youdao.com, direct
-domain-suffix,pplive.com, direct
-domain-suffix,pptv.com, direct
-domain-suffix,pinduoduo.com, direct
-domain-suffix,yangkeduo.com, direct
-domain-suffix,leju.com, direct
-domain-suffix,miaopai.com, direct
-domain-suffix,sina.com, direct
-domain-suffix,sina.com.cn, direct
-domain-suffix,sina.cn, direct
-domain-suffix,sinaapp.com, direct
-domain-suffix,sinaapp.cn, direct
-domain-suffix,sinaimg.com, direct
-domain-suffix,sinaimg.cn, direct
-domain-suffix,weibo.com, direct
-domain-suffix,weibo.cn, direct
-domain-suffix,weibocdn.com, direct
-domain-suffix,weibocdn.cn, direct
-domain-suffix,xiaoka.tv, direct
-domain-suffix,go2map.com, direct
-domain-suffix,sogo.com, direct
-domain-suffix,sogou.com, direct
-domain-suffix,sogoucdn.com, direct
-domain-suffix,sohu-inc.com, direct
-domain-suffix,sohu.com, direct
-domain-suffix,sohucs.com, direct
-domain-suffix,sohuno.com, direct
-domain-suffix,sohurdc.com, direct
-domain-suffix,v-56.com, direct
-domain-suffix,playstation.com, direct
-domain-suffix,playstation.net, direct
-domain-suffix,playstationnetwork.com, direct
-domain-suffix,sony.com, direct
-domain-suffix,sonyentertainmentnetwork.com, direct
-domain-suffix,cm.steampowered.com, direct
-domain-suffix,steamcontent.com, direct
-domain-suffix,steamusercontent.com, direct
-domain-suffix,steamchina.com, direct
-domain,csgo.wmsj.cn, direct
-domain,dota2.wmsj.cn, direct
-domain,wmsjsteam.com, direct
-domain,dl.steam.clngaa.com, direct
-domain,dl.steam.ksyna.com, direct
-domain,st.dl.bscstorage.net, direct
-domain,st.dl.eccdnx.com, direct
-domain,st.dl.pinyuncloud.com, direct
-domain,xz.pphimalayanrt.com, direct
-domain,steampipe.steamcontent.tnkjmec.com, direct
-domain,steampowered.com.8686c.com, direct
-domain,steamstatic.com.8686c.com, direct
-domain-suffix,foxmail.com, direct
-domain-suffix,gtimg.com, direct
-domain-suffix,idqqimg.com, direct
-domain-suffix,igamecj.com, direct
-domain-suffix,myapp.com, direct
-domain-suffix,myqcloud.com, direct
-domain-suffix,qq.com, direct
-domain-suffix,qqmail.com, direct
-domain-suffix,qqurl.com, direct
-domain-suffix,smtcdns.com, direct
-domain-suffix,smtcdns.net, direct
-domain-suffix,soso.com, direct
-domain-suffix,tencent-cloud.net, direct
-domain-suffix,tencent.com, direct
-domain-suffix,tencentmind.com, direct
-domain-suffix,tenpay.com, direct
-domain-suffix,wechat.com, direct
-domain-suffix,weixin.com, direct
-domain-suffix,weiyun.com, direct
-domain-suffix,appsimg.com, direct
-domain-suffix,appvipshop.com, direct
-domain-suffix,vip.com, direct
-domain-suffix,vipstatic.com, direct
-domain-suffix,ximalaya.com, direct
-domain-suffix,xmcdn.com, direct
-domain-suffix,00cdn.com, direct
-domain-suffix,88cdn.com, direct
-domain-suffix,kanimg.com, direct
-domain-suffix,kankan.com, direct
-domain-suffix,p2cdn.com, direct
-domain-suffix,sandai.net, direct
-domain-suffix,thundercdn.com, direct
-domain-suffix,xunlei.com, direct
-domain-suffix,got001.com, direct
-domain-suffix,p4pfile.com, direct
-domain-suffix,rrys.tv, direct
-domain-suffix,rrys2020.com, direct
-domain-suffix,yyets.com, direct
-domain-suffix,zimuzu.io, direct
-domain-suffix,zimuzu.tv, direct
-domain-suffix,zmz001.com, direct
-domain-suffix,zmz002.com, direct
-domain-suffix,zmz003.com, direct
-domain-suffix,zmz004.com, direct
-domain-suffix,zmz2019.com, direct
-domain-suffix,zmzapi.com, direct
-domain-suffix,zmzapi.net, direct
-domain-suffix,zmzfile.com, direct
-domain-suffix,teamviewer.com, direct
+host-suffix,13th.tech, direct
+host-suffix,423down.com, direct
+host-suffix,bokecc.com, direct
+host-suffix,chaipip.com, direct
+host-suffix,chinaplay.store, direct
+host-suffix,hrtsea.com, direct
+host-suffix,kaikeba.com, direct
+host-suffix,laomo.me, direct
+host-suffix,mpyit.com, direct
+host-suffix,msftconnecttest.com, direct
+host-suffix,msftncsi.com, direct
+host-suffix,qupu123.com, direct
+host-suffix,pdfwifi.com, direct
+host-suffix,zhenguanyu.biz, direct
+host-suffix,zhenguanyu.com, direct
+host-suffix,snapdrop.net, direct
+host-suffix,tebex.io, direct
+host-suffix,cn, direct
+host-suffix,xn--fiqs8s, direct
+host-suffix,xn--55qx5d, direct
+host-suffix,xn--io0a7i, direct
+host-keyword,360buy, direct
+host-keyword,alicdn, direct
+host-keyword,alimama, direct
+host-keyword,alipay, direct
+host-keyword,appzapp, direct
+host-keyword,baidupcs, direct
+host-keyword,bilibili, direct
+host-keyword,ccgslb, direct
+host-keyword,chinacache, direct
+host-keyword,duobao, direct
+host-keyword,jdpay, direct
+host-keyword,moke, direct
+host-keyword,qhimg, direct
+host-keyword,vpimg, direct
+host-keyword,xiami, direct
+host-keyword,xiaomi, direct
+host-suffix,360.com, direct
+host-suffix,360kuai.com, direct
+host-suffix,360safe.com, direct
+host-suffix,dhrest.com, direct
+host-suffix,qhres.com, direct
+host-suffix,qhstatic.com, direct
+host-suffix,qhupdate.com, direct
+host-suffix,so.com, direct
+host-suffix,4399.com, direct
+host-suffix,4399pk.com, direct
+host-suffix,5054399.com, direct
+host-suffix,img4399.com, direct
+host-suffix,58.com, direct
+host-suffix,1688.com, direct
+host-suffix,aliapp.org, direct
+host-suffix,alibaba.com, direct
+host-suffix,alibabacloud.com, direct
+host-suffix,alibabausercontent.com, direct
+host-suffix,alicdn.com, direct
+host-suffix,alicloudccp.com, direct
+host-suffix,aliexpress.com, direct
+host-suffix,aliimg.com, direct
+host-suffix,alikunlun.com, direct
+host-suffix,alipay.com, direct
+host-suffix,alipayobjects.com, direct
+host-suffix,alisoft.com, direct
+host-suffix,aliyun.com, direct
+host-suffix,aliyuncdn.com, direct
+host-suffix,aliyuncs.com, direct
+host-suffix,aliyundrive.com, direct
+host-suffix,aliyundrive.net, direct
+host-suffix,amap.com, direct
+host-suffix,autonavi.com, direct
+host-suffix,dingtalk.com, direct
+host-suffix,ele.me, direct
+host-suffix,hichina.com, direct
+host-suffix,mmstat.com, direct
+host-suffix,mxhichina.com, direct
+host-suffix,soku.com, direct
+host-suffix,taobao.com, direct
+host-suffix,taobaocdn.com, direct
+host-suffix,tbcache.com, direct
+host-suffix,tbcdn.com, direct
+host-suffix,tmall.com, direct
+host-suffix,tmall.hk, direct
+host-suffix,ucweb.com, direct
+host-suffix,xiami.com, direct
+host-suffix,xiami.net, direct
+host-suffix,ykimg.com, direct
+host-suffix,youku.com, direct
+host-suffix,qwen.ai, direct
+host-suffix,baidu.com, direct
+host-suffix,baidubcr.com, direct
+host-suffix,baidupcs.com, direct
+host-suffix,baidustatic.com, direct
+host-suffix,bcebos.com, direct
+host-suffix,bdimg.com, direct
+host-suffix,bdstatic.com, direct
+host-suffix,bdurl.net, direct
+host-suffix,hao123.com, direct
+host-suffix,hao123img.com, direct
+host-suffix,jomodns.com, direct
+host-suffix,yunjiasu-cdn.net, direct
+host-suffix,acg.tv, direct
+host-suffix,acgvideo.com, direct
+host-suffix,b23.tv, direct
+host-suffix,bigfun.cn, direct
+host-suffix,bigfunapp.cn, direct
+host-suffix,biliapi.com, direct
+host-suffix,biliapi.net, direct
+host-suffix,bilibili.com, direct
+host-suffix,bilibili.co, direct
+host-suffix,biliintl.co, direct
+host-suffix,biligame.com, direct
+host-suffix,biligame.net, direct
+host-suffix,bilivideo.com, direct
+host-suffix,bilivideo.cn, direct
+host-suffix,hdslb.com, direct
+host-suffix,im9.com, direct
+host-suffix,smtcdns.net, direct
+host-suffix,amemv.com, direct
+host-suffix,bdxiguaimg.com, direct
+host-suffix,bdxiguastatic.com, direct
+host-suffix,byted-static.com, direct
+host-suffix,bytedance.com, direct
+host-suffix,bytedance.net, direct
+host-suffix,bytedns.net, direct
+host-suffix,bytednsdoc.com, direct
+host-suffix,bytegoofy.com, direct
+host-suffix,byteimg.com, direct
+host-suffix,bytescm.com, direct
+host-suffix,bytetos.com, direct
+host-suffix,bytexservice.com, direct
+host-suffix,douyin.com, direct
+host-suffix,douyincdn.com, direct
+host-suffix,douyinpic.com, direct
+host-suffix,douyinstatic.com, direct
+host-suffix,douyinvod.com, direct
+host-suffix,feelgood.cn, direct
+host-suffix,feiliao.com, direct
+host-suffix,gifshow.com, direct
+host-suffix,huoshan.com, direct
+host-suffix,huoshanzhibo.com, direct
+host-suffix,ibytedapm.com, direct
+host-suffix,iesdouyin.com, direct
+host-suffix,ixigua.com, direct
+host-suffix,kspkg.com, direct
+host-suffix,pstatp.com, direct
+host-suffix,snssdk.com, direct
+host-suffix,toutiao.com, direct
+host-suffix,toutiao13.com, direct
+host-suffix,toutiaoapi.com, direct
+host-suffix,toutiaocdn.com, direct
+host-suffix,toutiaocdn.net, direct
+host-suffix,toutiaocloud.com, direct
+host-suffix,toutiaohao.com, direct
+host-suffix,toutiaohao.net, direct
+host-suffix,toutiaoimg.com, direct
+host-suffix,toutiaopage.com, direct
+host-suffix,wukong.com, direct
+host-suffix,zijieapi.com, direct
+host-suffix,zijieimg.com, direct
+host-suffix,zjbyte.com, direct
+host-suffix,zjcdn.com, direct
+host-suffix,cctv.com, direct
+host-suffix,cctvpic.com, direct
+host-suffix,livechina.com, direct
+host,auth.wosms.cn, direct
+host,config.cmpassport.com, direct
+host,enrichgw.10010.com, direct
+host,hmrz.wo.cn, direct
+host,id.mail.wo.cn, direct
+host,log.cmpassport.com, direct
+host,log1.cmpassport.com, direct
+host,mdn.open.wo.cn, direct
+host,nishub1.10010.com, direct
+host,opencloud.wostore.cn, direct
+host,ye.dun.163yun.com, direct
+host-suffix,auth.wo.cn, direct
+host-suffix,cmpassport.com, direct
+host-suffix,id6.me, direct
+host-suffix,mob.com, direct
+host-suffix,open.e.189.cn, direct
+host-suffix,21cn.com, direct
+host-suffix,didialift.com, direct
+host-suffix,didiglobal.com, direct
+host-suffix,udache.com, direct
+host-suffix,bytefcdnrd.com, direct
+host-suffix,edgesrv.com, direct
+host-suffix,douyu.com, direct
+host-suffix,douyu.tv, direct
+host-suffix,douyucdn.cn, direct
+host-suffix,douyuscdn.com, direct
+host-suffix,douyutv.com, direct
+host-suffix,epicgames.com, direct
+host-suffix,epicgames.dev, direct
+host-suffix,helpshift.com, direct
+host-suffix,paragon.com, direct
+host-suffix,unrealengine.com, direct
+host-suffix,dbankcdn.com, direct
+host-suffix,hc-cdn.com, direct
+host-suffix,hicloud.com, direct
+host-suffix,hihonor.com, direct
+host-suffix,huawei.com, direct
+host-suffix,huaweicloud.com, direct
+host-suffix,huaweishop.net, direct
+host-suffix,hwccpc.com, direct
+host-suffix,vmall.com, direct
+host-suffix,vmallres.com, direct
+host-suffix,allawnfs.com, direct
+host-suffix,allawno.com, direct
+host-suffix,allawntech.com, direct
+host-suffix,coloros.com, direct
+host-suffix,heytap.com, direct
+host-suffix,heytapcs.com, direct
+host-suffix,heytapdownload.com, direct
+host-suffix,heytapimage.com, direct
+host-suffix,heytapmobi.com, direct
+host-suffix,oppo.com, direct
+host-suffix,oppoer.me, direct
+host-suffix,oppomobile.com, direct
+host-suffix,iflyink.com, direct
+host-suffix,iflyrec.com, direct
+host-suffix,iflytek.com, direct
+host-suffix,71.am, direct
+host-suffix,71edge.com, direct
+host-suffix,iqiyi.com, direct
+host-suffix,iqiyipic.com, direct
+host-suffix,ppsimg.com, direct
+host-suffix,qiyi.com, direct
+host-suffix,qiyipic.com, direct
+host-suffix,qy.net, direct
+host-suffix,360buy.com, direct
+host-suffix,360buyimg.com, direct
+host-suffix,jcloudcs.com, direct
+host-suffix,jd.com, direct
+host-suffix,jd.hk, direct
+host-suffix,jdcloud.com, direct
+host-suffix,jdpay.com, direct
+host-suffix,paipai.com, direct
+host-suffix,iciba.com, direct
+host-suffix,ksosoft.com, direct
+host-suffix,ksyun.com, direct
+host-suffix,kuaishou.com, direct
+host-suffix,yximgs.com, direct
+host-suffix,meitu.com, direct
+host-suffix,meitudata.com, direct
+host-suffix,meitustat.com, direct
+host-suffix,meipai.com, direct
+host-suffix,le.com, direct
+host-suffix,lecloud.com, direct
+host-suffix,letv.com, direct
+host-suffix,letvcloud.com, direct
+host-suffix,letvimg.com, direct
+host-suffix,letvlive.com, direct
+host-suffix,letvstore.com, direct
+host-suffix,hitv.com, direct
+host-suffix,hunantv.com, direct
+host-suffix,mgtv.com, direct
+host-suffix,duokan.com, direct
+host-suffix,mi-img.com, direct
+host-suffix,mi.com, direct
+host-suffix,miui.com, direct
+host-suffix,xiaomi.com, direct
+host-suffix,xiaomi.net, direct
+host-suffix,xiaomicp.com, direct
+host-suffix,126.com, direct
+host-suffix,126.net, direct
+host-suffix,127.net, direct
+host-suffix,163.com, direct
+host-suffix,163yun.com, direct
+host-suffix,lofter.com, direct
+host-suffix,netease.com, direct
+host-suffix,ydstatic.com, direct
+host-suffix,youdao.com, direct
+host-suffix,pplive.com, direct
+host-suffix,pptv.com, direct
+host-suffix,pinduoduo.com, direct
+host-suffix,yangkeduo.com, direct
+host-suffix,leju.com, direct
+host-suffix,miaopai.com, direct
+host-suffix,sina.com, direct
+host-suffix,sina.com.cn, direct
+host-suffix,sina.cn, direct
+host-suffix,sinaapp.com, direct
+host-suffix,sinaapp.cn, direct
+host-suffix,sinaimg.com, direct
+host-suffix,sinaimg.cn, direct
+host-suffix,weibo.com, direct
+host-suffix,weibo.cn, direct
+host-suffix,weibocdn.com, direct
+host-suffix,weibocdn.cn, direct
+host-suffix,xiaoka.tv, direct
+host-suffix,go2map.com, direct
+host-suffix,sogo.com, direct
+host-suffix,sogou.com, direct
+host-suffix,sogoucdn.com, direct
+host-suffix,sohu-inc.com, direct
+host-suffix,sohu.com, direct
+host-suffix,sohucs.com, direct
+host-suffix,sohuno.com, direct
+host-suffix,sohurdc.com, direct
+host-suffix,v-56.com, direct
+host-suffix,playstation.com, direct
+host-suffix,playstation.net, direct
+host-suffix,playstationnetwork.com, direct
+host-suffix,sony.com, direct
+host-suffix,sonyentertainmentnetwork.com, direct
+host-suffix,cm.steampowered.com, direct
+host-suffix,steamcontent.com, direct
+host-suffix,steamusercontent.com, direct
+host-suffix,steamchina.com, direct
+host,csgo.wmsj.cn, direct
+host,dota2.wmsj.cn, direct
+host,wmsjsteam.com, direct
+host,dl.steam.clngaa.com, direct
+host,dl.steam.ksyna.com, direct
+host,st.dl.bscstorage.net, direct
+host,st.dl.eccdnx.com, direct
+host,st.dl.pinyuncloud.com, direct
+host,xz.pphimalayanrt.com, direct
+host,steampipe.steamcontent.tnkjmec.com, direct
+host,steampowered.com.8686c.com, direct
+host,steamstatic.com.8686c.com, direct
+host-suffix,foxmail.com, direct
+host-suffix,gtimg.com, direct
+host-suffix,idqqimg.com, direct
+host-suffix,igamecj.com, direct
+host-suffix,myapp.com, direct
+host-suffix,myqcloud.com, direct
+host-suffix,qq.com, direct
+host-suffix,qqmail.com, direct
+host-suffix,qqurl.com, direct
+host-suffix,smtcdns.com, direct
+host-suffix,smtcdns.net, direct
+host-suffix,soso.com, direct
+host-suffix,tencent-cloud.net, direct
+host-suffix,tencent.com, direct
+host-suffix,tencentmind.com, direct
+host-suffix,tenpay.com, direct
+host-suffix,wechat.com, direct
+host-suffix,weixin.com, direct
+host-suffix,weiyun.com, direct
+host-suffix,appsimg.com, direct
+host-suffix,appvipshop.com, direct
+host-suffix,vip.com, direct
+host-suffix,vipstatic.com, direct
+host-suffix,ximalaya.com, direct
+host-suffix,xmcdn.com, direct
+host-suffix,00cdn.com, direct
+host-suffix,88cdn.com, direct
+host-suffix,kanimg.com, direct
+host-suffix,kankan.com, direct
+host-suffix,p2cdn.com, direct
+host-suffix,sandai.net, direct
+host-suffix,thundercdn.com, direct
+host-suffix,xunlei.com, direct
+host-suffix,got001.com, direct
+host-suffix,p4pfile.com, direct
+host-suffix,rrys.tv, direct
+host-suffix,rrys2020.com, direct
+host-suffix,yyets.com, direct
+host-suffix,zimuzu.io, direct
+host-suffix,zimuzu.tv, direct
+host-suffix,zmz001.com, direct
+host-suffix,zmz002.com, direct
+host-suffix,zmz003.com, direct
+host-suffix,zmz004.com, direct
+host-suffix,zmz2019.com, direct
+host-suffix,zmzapi.com, direct
+host-suffix,zmzapi.net, direct
+host-suffix,zmzfile.com, direct
+host-suffix,teamviewer.com, direct
 
-domain-suffix,baomitu.com, direct
-domain-suffix,bootcss.com, direct
-domain-suffix,jiasule.com, direct
-domain-suffix,staticfile.org, direct
-domain-suffix,upaiyun.com, direct
-domain-suffix,doh.pub, direct
-domain-suffix,dns.alidns.com, direct
-domain-suffix,doh.360.cn, direct
+host-suffix,baomitu.com, direct
+host-suffix,bootcss.com, direct
+host-suffix,jiasule.com, direct
+host-suffix,staticfile.org, direct
+host-suffix,upaiyun.com, direct
+host-suffix,doh.pub, direct
+host-suffix,dns.alidns.com, direct
+host-suffix,doh.360.cn, direct
 
-domain-suffix,10010.com, direct
-domain-suffix,115.com, direct
-domain-suffix,12306.com, direct
-domain-suffix,17173.com, direct
-domain-suffix,178.com, direct
-domain-suffix,17k.com, direct
-domain-suffix,360doc.com, direct
-domain-suffix,36kr.com, direct
-domain-suffix,3dmgame.com, direct
-domain-suffix,51cto.com, direct
-domain-suffix,51job.com, direct
-domain-suffix,51jobcdn.com, direct
-domain-suffix,56.com, direct
-domain-suffix,8686c.com, direct
-domain-suffix,abchina.com, direct
-domain-suffix,abercrombie.com, direct
-domain-suffix,acfun.tv, direct
-domain-suffix,air-matters.com, direct
-domain-suffix,air-matters.io, direct
-domain-suffix,aixifan.com, direct
-domain-suffix,algocasts.io, direct
-domain-suffix,babytree.com, direct
-domain-suffix,babytreeimg.com, direct
-domain-suffix,baicizhan.com, direct
-domain-suffix,baidupan.com, direct
-domain-suffix,baike.com, direct
-domain-suffix,biqudu.com, direct
-domain-suffix,biquge.com, direct
-domain-suffix,bitauto.com, direct
-domain-suffix,bosszhipin.com, direct
-domain-suffix,c-ctrip.com, direct
-domain-suffix,camera360.com, direct
-domain-suffix,cdnmama.com, direct
-domain-suffix,chaoxing.com, direct
-domain-suffix,che168.com, direct
-domain-suffix,chinacache.net, direct
-domain-suffix,chinaso.com, direct
-domain-suffix,chinaz.com, direct
-domain-suffix,chinaz.net, direct
-domain-suffix,chuimg.com, direct
-domain-suffix,cibntv.net, direct
-domain-suffix,clouddn.com, direct
-domain-suffix,cloudxns.net, direct
-domain-suffix,cn163.net, direct
-domain-suffix,cnblogs.com, direct
-domain-suffix,cnki.net, direct
-domain-suffix,cnmstl.net, direct
-domain-suffix,coolapk.com, direct
-domain-suffix,coolapkmarket.com, direct
-domain-suffix,csdn.net, direct
-domain-suffix,ctrip.com, direct
-domain-suffix,dangdang.com, direct
-domain-suffix,dfcfw.com, direct
-domain-suffix,dianping.com, direct
-domain-suffix,dilidili.wang, direct
-domain-suffix,douban.com, direct
-domain-suffix,doubanio.com, direct
-domain-suffix,dpfile.com, direct
-domain-suffix,duowan.com, direct
-domain-suffix,dxycdn.com, direct
-domain-suffix,dytt8.net, direct
-domain-suffix,easou.com, direct
-domain-suffix,eastday.com, direct
-domain-suffix,eastmoney.com, direct
-domain-suffix,ecitic.com, direct
-domain-suffix,element-plus.org, direct
-domain-suffix,ewqcxz.com, direct
-domain-suffix,fang.com, direct
-domain-suffix,fantasy.tv, direct
-domain-suffix,feng.com, direct
-domain-suffix,fengkongcloud.com, direct
-domain-suffix,fir.im, direct
-domain-suffix,frdic.com, direct
-domain-suffix,fresh-ideas.cc, direct
-domain-suffix,ganji.com, direct
-domain-suffix,ganjistatic1.com, direct
-domain-suffix,geetest.com, direct
-domain-suffix,geilicdn.com, direct
-domain-suffix,ghpym.com, direct
-domain-suffix,godic.net, direct
-domain-suffix,guazi.com, direct
-domain-suffix,gwdang.com, direct
-domain-suffix,gzlzfm.com, direct
-domain-suffix,haibian.com, direct
-domain-suffix,haosou.com, direct
-domain-suffix,hollisterco.com, direct
-domain-suffix,hongxiu.com, direct
-domain-suffix,huajiao.com, direct
-domain-suffix,hupu.com, direct
-domain-suffix,huxiucdn.com, direct
-domain-suffix,huya.com, direct
-domain-suffix,ifeng.com, direct
-domain-suffix,ifengimg.com, direct
-domain-suffix,images-amazon.com, direct
-domain-suffix,infzm.com, direct
-domain-suffix,ipip.net, direct
-domain-suffix,it168.com, direct
-domain-suffix,ithome.com, direct
-domain-suffix,ixdzs.com, direct
-domain-suffix,jianguoyun.com, direct
-domain-suffix,jianshu.com, direct
-domain-suffix,jianshu.io, direct
-domain-suffix,jianshuapi.com, direct
-domain-suffix,jiathis.com, direct
-domain-suffix,jmstatic.com, direct
-domain-suffix,jumei.com, direct
-domain-suffix,kaola.com, direct
-domain-suffix,knewone.com, direct
-domain-suffix,koowo.com, direct
-domain-suffix,koyso.com, direct
-domain-suffix,ksyungslb.com, direct
-domain-suffix,kuaidi100.com, direct
-domain-suffix,kugou.com, direct
-domain-suffix,lancdns.com, direct
-domain-suffix,landiannews.com, direct
-domain-suffix,lanzou.com, direct
-domain-suffix,lanzoui.com, direct
-domain-suffix,lanzoux.com, direct
-domain-suffix,lemicp.com, direct
-domain-suffix,letitfly.me, direct
-domain-suffix,lizhi.fm, direct
-domain-suffix,lizhi.io, direct
-domain-suffix,lizhifm.com, direct
-domain-suffix,luoo.net, direct
-domain-suffix,lvmama.com, direct
-domain-suffix,lxdns.com, direct
-domain-suffix,maoyan.com, direct
-domain-suffix,meilishuo.com, direct
-domain-suffix,meituan.com, direct
-domain-suffix,meituan.net, direct
-domain-suffix,meizu.com, direct
-domain-suffix,migucloud.com, direct
-domain-suffix,miguvideo.com, direct
-domain-suffix,mobike.com, direct
-domain-suffix,mogu.com, direct
-domain-suffix,mogucdn.com, direct
-domain-suffix,mogujie.com, direct
-domain-suffix,moji.com, direct
-domain-suffix,moke.com, direct
-domain-suffix,msstatic.com, direct
-domain-suffix,mubu.com, direct
-domain-suffix,myunlu.com, direct
-domain-suffix,nruan.com, direct
-domain-suffix,nuomi.com, direct
-domain-suffix,onedns.net, direct
-domain-suffix,oneplus.com, direct
-domain-suffix,onlinedown.net, direct
-domain-suffix,oracle.com, direct
-domain-suffix,oschina.net, direct
-domain-suffix,ourdvs.com, direct
-domain-suffix,polyv.net, direct
-domain-suffix,qbox.me, direct
-domain-suffix,qcloud.com, direct
-domain-suffix,qcloudcdn.com, direct
-domain-suffix,qdaily.com, direct
-domain-suffix,qdmm.com, direct
-domain-suffix,qhimg.com, direct
-domain-suffix,qianqian.com, direct
-domain-suffix,qidian.com, direct
-domain-suffix,qihucdn.com, direct
-domain-suffix,qin.io, direct
-domain-suffix,qiniu.com, direct
-domain-suffix,qiniucdn.com, direct
-domain-suffix,qiniudn.com, direct
-domain-suffix,qiushibaike.com, direct
-domain-suffix,quanmin.tv, direct
-domain-suffix,qunar.com, direct
-domain-suffix,qunarzz.com, direct
-domain-suffix,realme.com, direct
-domain-suffix,repaik.com, direct
-domain-suffix,ruguoapp.com, direct
-domain-suffix,runoob.com, direct
-domain-suffix,sankuai.com, direct
-domain-suffix,segmentfault.com, direct
-domain-suffix,sf-express.com, direct
-domain-suffix,shumilou.net, direct
-domain-suffix,simplecd.me, direct
-domain-suffix,smzdm.com, direct
-domain-suffix,snwx.com, direct
-domain-suffix,soufunimg.com, direct
-domain-suffix,sspai.com, direct
-domain-suffix,startssl.com, direct
-domain-suffix,suning.com, direct
-domain-suffix,synology.com, direct
-domain-suffix,taihe.com, direct
-domain-suffix,th-sjy.com, direct
-domain-suffix,tianqi.com, direct
-domain-suffix,tianqistatic.com, direct
-domain-suffix,tianyancha.com, direct
-domain-suffix,tianyaui.com, direct
-domain-suffix,tietuku.com, direct
-domain-suffix,tiexue.net, direct
-domain-suffix,tmiaoo.com, direct
-domain-suffix,trip.com, direct
-domain-suffix,ttmeiju.com, direct
-domain-suffix,tudou.com, direct
-domain-suffix,tuniu.com, direct
-domain-suffix,tuniucdn.com, direct
-domain-suffix,umengcloud.com, direct
-domain-suffix,upyun.com, direct
-domain-suffix,uxengine.net, direct
-domain-suffix,videocc.net, direct
-domain-suffix,vivo.com, direct
-domain-suffix,wandoujia.com, direct
-domain-suffix,weather.com, direct
-domain-suffix,weico.cc, direct
-domain-suffix,weidian.com, direct
-domain-suffix,weiphone.com, direct
-domain-suffix,weiphone.net, direct
-domain-suffix,womai.com, direct
-domain-suffix,wscdns.com, direct
-domain-suffix,xdrig.com, direct
-domain-suffix,xhscdn.com, direct
-domain-suffix,xiachufang.com, direct
-domain-suffix,xiaohongshu.com, direct
-domain-suffix,xiaojukeji.com, direct
-domain-suffix,xinhuanet.com, direct
-domain-suffix,xip.io, direct
-domain-suffix,xitek.com, direct
-domain-suffix,xiumi.us, direct
-domain-suffix,xslb.net, direct
-domain-suffix,xueqiu.com, direct
-domain-suffix,yach.me, direct
-domain-suffix,yeepay.com, direct
-domain-suffix,yhd.com, direct
-domain-suffix,yihaodianimg.com, direct
-domain-suffix,yinxiang.com, direct
-domain-suffix,yinyuetai.com, direct
-domain-suffix,yixia.com, direct
-domain-suffix,ys168.com, direct
-domain-suffix,yuewen.com, direct
-domain-suffix,yy.com, direct
-domain-suffix,yystatic.com, direct
-domain-suffix,zealer.com, direct
-domain-suffix,zhangzishi.cc, direct
-domain-suffix,zhanqi.tv, direct
-domain-suffix,zhaopin.com, direct
-domain-suffix,zhihu.com, direct
-domain-suffix,zhimg.com, direct
-domain-suffix,zhipin.com, direct
-domain-suffix,zhongsou.com, direct
-domain-suffix,zhuihd.com, direct
-domain-suffix,cmbchina.com, direct
-domain-suffix,95516.com, direct
+host-suffix,10010.com, direct
+host-suffix,115.com, direct
+host-suffix,12306.com, direct
+host-suffix,17173.com, direct
+host-suffix,178.com, direct
+host-suffix,17k.com, direct
+host-suffix,360doc.com, direct
+host-suffix,36kr.com, direct
+host-suffix,3dmgame.com, direct
+host-suffix,51cto.com, direct
+host-suffix,51job.com, direct
+host-suffix,51jobcdn.com, direct
+host-suffix,56.com, direct
+host-suffix,8686c.com, direct
+host-suffix,abchina.com, direct
+host-suffix,abercrombie.com, direct
+host-suffix,acfun.tv, direct
+host-suffix,air-matters.com, direct
+host-suffix,air-matters.io, direct
+host-suffix,aixifan.com, direct
+host-suffix,algocasts.io, direct
+host-suffix,babytree.com, direct
+host-suffix,babytreeimg.com, direct
+host-suffix,baicizhan.com, direct
+host-suffix,baidupan.com, direct
+host-suffix,baike.com, direct
+host-suffix,biqudu.com, direct
+host-suffix,biquge.com, direct
+host-suffix,bitauto.com, direct
+host-suffix,bosszhipin.com, direct
+host-suffix,c-ctrip.com, direct
+host-suffix,camera360.com, direct
+host-suffix,cdnmama.com, direct
+host-suffix,chaoxing.com, direct
+host-suffix,che168.com, direct
+host-suffix,chinacache.net, direct
+host-suffix,chinaso.com, direct
+host-suffix,chinaz.com, direct
+host-suffix,chinaz.net, direct
+host-suffix,chuimg.com, direct
+host-suffix,cibntv.net, direct
+host-suffix,clouddn.com, direct
+host-suffix,cloudxns.net, direct
+host-suffix,cn163.net, direct
+host-suffix,cnblogs.com, direct
+host-suffix,cnki.net, direct
+host-suffix,cnmstl.net, direct
+host-suffix,coolapk.com, direct
+host-suffix,coolapkmarket.com, direct
+host-suffix,csdn.net, direct
+host-suffix,ctrip.com, direct
+host-suffix,dangdang.com, direct
+host-suffix,dfcfw.com, direct
+host-suffix,dianping.com, direct
+host-suffix,dilidili.wang, direct
+host-suffix,douban.com, direct
+host-suffix,doubanio.com, direct
+host-suffix,dpfile.com, direct
+host-suffix,duowan.com, direct
+host-suffix,dxycdn.com, direct
+host-suffix,dytt8.net, direct
+host-suffix,easou.com, direct
+host-suffix,eastday.com, direct
+host-suffix,eastmoney.com, direct
+host-suffix,ecitic.com, direct
+host-suffix,element-plus.org, direct
+host-suffix,ewqcxz.com, direct
+host-suffix,fang.com, direct
+host-suffix,fantasy.tv, direct
+host-suffix,feng.com, direct
+host-suffix,fengkongcloud.com, direct
+host-suffix,fir.im, direct
+host-suffix,frdic.com, direct
+host-suffix,fresh-ideas.cc, direct
+host-suffix,ganji.com, direct
+host-suffix,ganjistatic1.com, direct
+host-suffix,geetest.com, direct
+host-suffix,geilicdn.com, direct
+host-suffix,ghpym.com, direct
+host-suffix,godic.net, direct
+host-suffix,guazi.com, direct
+host-suffix,gwdang.com, direct
+host-suffix,gzlzfm.com, direct
+host-suffix,haibian.com, direct
+host-suffix,haosou.com, direct
+host-suffix,hollisterco.com, direct
+host-suffix,hongxiu.com, direct
+host-suffix,huajiao.com, direct
+host-suffix,hupu.com, direct
+host-suffix,huxiucdn.com, direct
+host-suffix,huya.com, direct
+host-suffix,ifeng.com, direct
+host-suffix,ifengimg.com, direct
+host-suffix,images-amazon.com, direct
+host-suffix,infzm.com, direct
+host-suffix,ipip.net, direct
+host-suffix,it168.com, direct
+host-suffix,ithome.com, direct
+host-suffix,ixdzs.com, direct
+host-suffix,jianguoyun.com, direct
+host-suffix,jianshu.com, direct
+host-suffix,jianshu.io, direct
+host-suffix,jianshuapi.com, direct
+host-suffix,jiathis.com, direct
+host-suffix,jmstatic.com, direct
+host-suffix,jumei.com, direct
+host-suffix,kaola.com, direct
+host-suffix,knewone.com, direct
+host-suffix,koowo.com, direct
+host-suffix,koyso.com, direct
+host-suffix,ksyungslb.com, direct
+host-suffix,kuaidi100.com, direct
+host-suffix,kugou.com, direct
+host-suffix,lancdns.com, direct
+host-suffix,landiannews.com, direct
+host-suffix,lanzou.com, direct
+host-suffix,lanzoui.com, direct
+host-suffix,lanzoux.com, direct
+host-suffix,lemicp.com, direct
+host-suffix,letitfly.me, direct
+host-suffix,lizhi.fm, direct
+host-suffix,lizhi.io, direct
+host-suffix,lizhifm.com, direct
+host-suffix,luoo.net, direct
+host-suffix,lvmama.com, direct
+host-suffix,lxdns.com, direct
+host-suffix,maoyan.com, direct
+host-suffix,meilishuo.com, direct
+host-suffix,meituan.com, direct
+host-suffix,meituan.net, direct
+host-suffix,meizu.com, direct
+host-suffix,migucloud.com, direct
+host-suffix,miguvideo.com, direct
+host-suffix,mobike.com, direct
+host-suffix,mogu.com, direct
+host-suffix,mogucdn.com, direct
+host-suffix,mogujie.com, direct
+host-suffix,moji.com, direct
+host-suffix,moke.com, direct
+host-suffix,msstatic.com, direct
+host-suffix,mubu.com, direct
+host-suffix,myunlu.com, direct
+host-suffix,nruan.com, direct
+host-suffix,nuomi.com, direct
+host-suffix,onedns.net, direct
+host-suffix,oneplus.com, direct
+host-suffix,onlinedown.net, direct
+host-suffix,oracle.com, direct
+host-suffix,oschina.net, direct
+host-suffix,ourdvs.com, direct
+host-suffix,polyv.net, direct
+host-suffix,qbox.me, direct
+host-suffix,qcloud.com, direct
+host-suffix,qcloudcdn.com, direct
+host-suffix,qdaily.com, direct
+host-suffix,qdmm.com, direct
+host-suffix,qhimg.com, direct
+host-suffix,qianqian.com, direct
+host-suffix,qidian.com, direct
+host-suffix,qihucdn.com, direct
+host-suffix,qin.io, direct
+host-suffix,qiniu.com, direct
+host-suffix,qiniucdn.com, direct
+host-suffix,qiniudn.com, direct
+host-suffix,qiushibaike.com, direct
+host-suffix,quanmin.tv, direct
+host-suffix,qunar.com, direct
+host-suffix,qunarzz.com, direct
+host-suffix,realme.com, direct
+host-suffix,repaik.com, direct
+host-suffix,ruguoapp.com, direct
+host-suffix,runoob.com, direct
+host-suffix,sankuai.com, direct
+host-suffix,segmentfault.com, direct
+host-suffix,sf-express.com, direct
+host-suffix,shumilou.net, direct
+host-suffix,simplecd.me, direct
+host-suffix,smzdm.com, direct
+host-suffix,snwx.com, direct
+host-suffix,soufunimg.com, direct
+host-suffix,sspai.com, direct
+host-suffix,startssl.com, direct
+host-suffix,suning.com, direct
+host-suffix,synology.com, direct
+host-suffix,taihe.com, direct
+host-suffix,th-sjy.com, direct
+host-suffix,tianqi.com, direct
+host-suffix,tianqistatic.com, direct
+host-suffix,tianyancha.com, direct
+host-suffix,tianyaui.com, direct
+host-suffix,tietuku.com, direct
+host-suffix,tiexue.net, direct
+host-suffix,tmiaoo.com, direct
+host-suffix,trip.com, direct
+host-suffix,ttmeiju.com, direct
+host-suffix,tudou.com, direct
+host-suffix,tuniu.com, direct
+host-suffix,tuniucdn.com, direct
+host-suffix,umengcloud.com, direct
+host-suffix,upyun.com, direct
+host-suffix,uxengine.net, direct
+host-suffix,videocc.net, direct
+host-suffix,vivo.com, direct
+host-suffix,wandoujia.com, direct
+host-suffix,weather.com, direct
+host-suffix,weico.cc, direct
+host-suffix,weidian.com, direct
+host-suffix,weiphone.com, direct
+host-suffix,weiphone.net, direct
+host-suffix,womai.com, direct
+host-suffix,wscdns.com, direct
+host-suffix,xdrig.com, direct
+host-suffix,xhscdn.com, direct
+host-suffix,xiachufang.com, direct
+host-suffix,xiaohongshu.com, direct
+host-suffix,xiaojukeji.com, direct
+host-suffix,xinhuanet.com, direct
+host-suffix,xip.io, direct
+host-suffix,xitek.com, direct
+host-suffix,xiumi.us, direct
+host-suffix,xslb.net, direct
+host-suffix,xueqiu.com, direct
+host-suffix,yach.me, direct
+host-suffix,yeepay.com, direct
+host-suffix,yhd.com, direct
+host-suffix,yihaodianimg.com, direct
+host-suffix,yinxiang.com, direct
+host-suffix,yinyuetai.com, direct
+host-suffix,yixia.com, direct
+host-suffix,ys168.com, direct
+host-suffix,yuewen.com, direct
+host-suffix,yy.com, direct
+host-suffix,yystatic.com, direct
+host-suffix,zealer.com, direct
+host-suffix,zhangzishi.cc, direct
+host-suffix,zhanqi.tv, direct
+host-suffix,zhaopin.com, direct
+host-suffix,zhihu.com, direct
+host-suffix,zhimg.com, direct
+host-suffix,zhipin.com, direct
+host-suffix,zhongsou.com, direct
+host-suffix,zhuihd.com, direct
+host-suffix,cmbchina.com, direct
+host-suffix,95516.com, direct
 
-domain-suffix,265.com, direct
-domain-suffix,2mdn.net, direct
-domain-suffix,alt1-mtalk.google.com, direct
-domain-suffix,alt2-mtalk.google.com, direct
-domain-suffix,alt3-mtalk.google.com, direct
-domain-suffix,alt4-mtalk.google.com, direct
-domain-suffix,alt5-mtalk.google.com, direct
-domain-suffix,alt6-mtalk.google.com, direct
-domain-suffix,alt7-mtalk.google.com, direct
-domain-suffix,alt8-mtalk.google.com, direct
-domain-suffix,app-measurement.com, direct
-domain-suffix,cache.pack.google.com, direct
-domain-suffix,clickserve.dartsearch.net, direct
-domain-suffix,crl.pki.goog, direct
-domain-suffix,dl.google.com, direct
-domain-suffix,dl.l.google.com, direct
-domain-suffix,googletagmanager.com, direct
-domain-suffix,googletagservices.com, direct
-domain-suffix,gtm.oasisfeng.com, direct
-domain-suffix,mtalk.google.com, direct
-domain-suffix,ocsp.pki.goog, direct
-domain-suffix,recaptcha.net, direct
-domain-suffix,safebrowsing-cache.google.com, direct
-domain-suffix,settings.crashlytics.com, direct
-domain-suffix,ssl-google-analytics.l.google.com, direct
-domain-suffix,toolbarqueries.google.com, direct
-domain-suffix,tools.google.com, direct
-domain-suffix,tools.l.google.com, direct
-domain-suffix,www-googletagmanager.l.google.com, direct
-domain,csgo.wmsj.cn, direct
-domain,dl.steam.clngaa.com, direct
-domain,dl.steam.ksyna.com, direct
-domain,dota2.wmsj.cn, direct
-domain,st.dl.bscstorage.net, direct
-domain,st.dl.eccdnx.com, direct
-domain,st.dl.pinyuncloud.com, direct
-domain,steampipe.steamcontent.tnkjmec.com, direct
-domain,steampowered.com.8686c.com, direct
-domain,steamstatic.com.8686c.com, direct
-domain,wmsjsteam.com, direct
-domain,xz.pphimalayanrt.com, direct
-domain-suffix,cm.steampowered.com, direct
-domain-suffix,steamchina.com, direct
-domain-suffix,steamcontent.com, direct
-domain-suffix,steamusercontent.com, direct
-domain-keyword,1drv, direct
-domain-keyword,microsoft, direct
-domain-suffix,aadrm.com, direct
-domain-suffix,acompli.com, direct
-domain-suffix,acompli.net, direct
-domain-suffix,aka.ms, direct
-domain-suffix,akadns.net, direct
-domain-suffix,aspnetcdn.com, direct
-domain-suffix,assets-yammer.com, direct
-domain-suffix,azure.com, direct
-domain-suffix,azure.net, direct
-domain-suffix,azureedge.net, direct
-domain-suffix,azureiotcentral.com, direct
-domain-suffix,azurerms.com, direct
-domain-suffix,bing.com, direct
-domain-suffix,bing.net, direct
-domain-suffix,bingapis.com, direct
-domain-suffix,cloudapp.net, direct
-domain-suffix,cloudappsecurity.com, direct
-domain-suffix,edgesuite.net, direct
-domain-suffix,gfx.ms, direct
-domain-suffix,hotmail.com, direct
-domain-suffix,live.com, direct
-domain-suffix,live.net, direct
-domain-suffix,lync.com, direct
-domain-suffix,msappproxy.net, direct
-domain-suffix,msauth.net, direct
-domain-suffix,msauthimages.net, direct
-domain-suffix,msecnd.net, direct
-domain-suffix,msedge.net, direct
-domain-suffix,msft.net, direct
-domain-suffix,msftauth.net, direct
-domain-suffix,msftauthimages.net, direct
-domain-suffix,msftidentity.com, direct
-domain-suffix,msidentity.com, direct
-domain-suffix,msn.cn, direct
-domain-suffix,msn.com, direct
-domain-suffix,msocdn.com, direct
-domain-suffix,msocsp.com, direct
-domain-suffix,mstea.ms, direct
-domain-suffix,o365weve.com, direct
-domain-suffix,oaspapps.com, direct
-domain-suffix,office.com, direct
-domain-suffix,office.net, direct
-domain-suffix,office365.com, direct
-domain-suffix,officeppe.net, direct
-domain-suffix,omniroot.com, direct
-domain-suffix,onedrive.com, direct
-domain-suffix,onenote.com, direct
-domain-suffix,onenote.net, direct
-domain-suffix,onestore.ms, direct
-domain-suffix,outlook.com, direct
-domain-suffix,outlookmobile.com, direct
-domain-suffix,phonefactor.net, direct
-domain-suffix,public-trust.com, direct
-domain-suffix,sfbassets.com, direct
-domain-suffix,sfx.ms, direct
-domain-suffix,sharepoint.com, direct
-domain-suffix,sharepointonline.com, direct
-domain-suffix,skype.com, direct
-domain-suffix,skypeassets.com, direct
-domain-suffix,skypeforbusiness.com, direct
-domain-suffix,staffhub.ms, direct
-domain-suffix,svc.ms, direct
-domain-suffix,sway-cdn.com, direct
-domain-suffix,sway-extensions.com, direct
-domain-suffix,sway.com, direct
-domain-suffix,trafficmanager.net, direct
-domain-suffix,uservoice.com, direct
-domain-suffix,virtualearth.net, direct
-domain-suffix,visualstudio.com, direct
-domain-suffix,windows-ppe.net, direct
-domain-suffix,windows.com, direct
-domain-suffix,windows.net, direct
-domain-suffix,windowsazure.com, direct
-domain-suffix,windowsupdate.com, direct
-domain-suffix,wunderlist.com, direct
-domain-suffix,yammer.com, direct
-domain-suffix,yammerusercontent.com, direct
-domain,apple.comscoreresearch.com, direct
-domain-suffix,aaplimg.com, direct
-domain-suffix,akadns.net, direct
-domain-suffix,apple-cloudkit.com, direct
-domain-suffix,apple-dns.net, direct
-domain-suffix,apple-mapkit.com, direct
-domain-suffix,apple.co, direct
-domain-suffix,apple.com, direct
-domain-suffix,apple.com.cn, direct
-domain-suffix,apple.news, direct
-domain-suffix,appstore.com, direct
-domain-suffix,cdn-apple.com, direct
-domain-suffix,crashlytics.com, direct
-domain-suffix,icloud-content.com, direct
-domain-suffix,icloud.com, direct
-domain-suffix,icloud.com.cn, direct
-domain-suffix,itunes.com, direct
-domain-suffix,me.com, direct
-domain-suffix,mzstatic.com, direct
+host-suffix,265.com, direct
+host-suffix,2mdn.net, direct
+host-suffix,alt1-mtalk.google.com, direct
+host-suffix,alt2-mtalk.google.com, direct
+host-suffix,alt3-mtalk.google.com, direct
+host-suffix,alt4-mtalk.google.com, direct
+host-suffix,alt5-mtalk.google.com, direct
+host-suffix,alt6-mtalk.google.com, direct
+host-suffix,alt7-mtalk.google.com, direct
+host-suffix,alt8-mtalk.google.com, direct
+host-suffix,app-measurement.com, direct
+host-suffix,cache.pack.google.com, direct
+host-suffix,clickserve.dartsearch.net, direct
+host-suffix,crl.pki.goog, direct
+host-suffix,dl.google.com, direct
+host-suffix,dl.l.google.com, direct
+host-suffix,googletagmanager.com, direct
+host-suffix,googletagservices.com, direct
+host-suffix,gtm.oasisfeng.com, direct
+host-suffix,mtalk.google.com, direct
+host-suffix,ocsp.pki.goog, direct
+host-suffix,recaptcha.net, direct
+host-suffix,safebrowsing-cache.google.com, direct
+host-suffix,settings.crashlytics.com, direct
+host-suffix,ssl-google-analytics.l.google.com, direct
+host-suffix,toolbarqueries.google.com, direct
+host-suffix,tools.google.com, direct
+host-suffix,tools.l.google.com, direct
+host-suffix,www-googletagmanager.l.google.com, direct
+host,csgo.wmsj.cn, direct
+host,dl.steam.clngaa.com, direct
+host,dl.steam.ksyna.com, direct
+host,dota2.wmsj.cn, direct
+host,st.dl.bscstorage.net, direct
+host,st.dl.eccdnx.com, direct
+host,st.dl.pinyuncloud.com, direct
+host,steampipe.steamcontent.tnkjmec.com, direct
+host,steampowered.com.8686c.com, direct
+host,steamstatic.com.8686c.com, direct
+host,wmsjsteam.com, direct
+host,xz.pphimalayanrt.com, direct
+host-suffix,cm.steampowered.com, direct
+host-suffix,steamchina.com, direct
+host-suffix,steamcontent.com, direct
+host-suffix,steamusercontent.com, direct
+host-keyword,1drv, direct
+host-keyword,microsoft, direct
+host-suffix,aadrm.com, direct
+host-suffix,acompli.com, direct
+host-suffix,acompli.net, direct
+host-suffix,aka.ms, direct
+host-suffix,akadns.net, direct
+host-suffix,aspnetcdn.com, direct
+host-suffix,assets-yammer.com, direct
+host-suffix,azure.com, direct
+host-suffix,azure.net, direct
+host-suffix,azureedge.net, direct
+host-suffix,azureiotcentral.com, direct
+host-suffix,azurerms.com, direct
+host-suffix,bing.com, direct
+host-suffix,bing.net, direct
+host-suffix,bingapis.com, direct
+host-suffix,cloudapp.net, direct
+host-suffix,cloudappsecurity.com, direct
+host-suffix,edgesuite.net, direct
+host-suffix,gfx.ms, direct
+host-suffix,hotmail.com, direct
+host-suffix,live.com, direct
+host-suffix,live.net, direct
+host-suffix,lync.com, direct
+host-suffix,msappproxy.net, direct
+host-suffix,msauth.net, direct
+host-suffix,msauthimages.net, direct
+host-suffix,msecnd.net, direct
+host-suffix,msedge.net, direct
+host-suffix,msft.net, direct
+host-suffix,msftauth.net, direct
+host-suffix,msftauthimages.net, direct
+host-suffix,msftidentity.com, direct
+host-suffix,msidentity.com, direct
+host-suffix,msn.cn, direct
+host-suffix,msn.com, direct
+host-suffix,msocdn.com, direct
+host-suffix,msocsp.com, direct
+host-suffix,mstea.ms, direct
+host-suffix,o365weve.com, direct
+host-suffix,oaspapps.com, direct
+host-suffix,office.com, direct
+host-suffix,office.net, direct
+host-suffix,office365.com, direct
+host-suffix,officeppe.net, direct
+host-suffix,omniroot.com, direct
+host-suffix,onedrive.com, direct
+host-suffix,onenote.com, direct
+host-suffix,onenote.net, direct
+host-suffix,onestore.ms, direct
+host-suffix,outlook.com, direct
+host-suffix,outlookmobile.com, direct
+host-suffix,phonefactor.net, direct
+host-suffix,public-trust.com, direct
+host-suffix,sfbassets.com, direct
+host-suffix,sfx.ms, direct
+host-suffix,sharepoint.com, direct
+host-suffix,sharepointonline.com, direct
+host-suffix,skype.com, direct
+host-suffix,skypeassets.com, direct
+host-suffix,skypeforbusiness.com, direct
+host-suffix,staffhub.ms, direct
+host-suffix,svc.ms, direct
+host-suffix,sway-cdn.com, direct
+host-suffix,sway-extensions.com, direct
+host-suffix,sway.com, direct
+host-suffix,trafficmanager.net, direct
+host-suffix,uservoice.com, direct
+host-suffix,virtualearth.net, direct
+host-suffix,visualstudio.com, direct
+host-suffix,windows-ppe.net, direct
+host-suffix,windows.com, direct
+host-suffix,windows.net, direct
+host-suffix,windowsazure.com, direct
+host-suffix,windowsupdate.com, direct
+host-suffix,wunderlist.com, direct
+host-suffix,yammer.com, direct
+host-suffix,yammerusercontent.com, direct
+host,apple.comscoreresearch.com, direct
+host-suffix,aaplimg.com, direct
+host-suffix,akadns.net, direct
+host-suffix,apple-cloudkit.com, direct
+host-suffix,apple-dns.net, direct
+host-suffix,apple-mapkit.com, direct
+host-suffix,apple.co, direct
+host-suffix,apple.com, direct
+host-suffix,apple.com.cn, direct
+host-suffix,apple.news, direct
+host-suffix,appstore.com, direct
+host-suffix,cdn-apple.com, direct
+host-suffix,crashlytics.com, direct
+host-suffix,icloud-content.com, direct
+host-suffix,icloud.com, direct
+host-suffix,icloud.com.cn, direct
+host-suffix,itunes.com, direct
+host-suffix,me.com, direct
+host-suffix,mzstatic.com, direct
 
 
 ip-cidr,17.0.0.0/8, direct,no-resolve
