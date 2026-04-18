@@ -1,3 +1,866 @@
+domain-suffix,t.me,proxy
+domain-suffix,tdesktop.com,proxy
+domain-suffix,telegra.ph,proxy
+domain-suffix,telegram.me,proxy
+domain-suffix,telegram.org,proxy
+domain-suffix,telesco.pe,proxy
+ip-cidr,91.108.0.0/16,proxy,no-resolve
+ip-cidr,95.161.64.0/20,proxy,no-resolve
+ip-cidr,109.239.140.0/24,proxy,no-resolve
+ip-cidr,149.154.160.0/20,proxy,no-resolve
+ip6-cidr,2001:67c:4e8::/48,proxy,no-resolve
+ip6-cidr,2001:b28:f23d::/48,proxy,no-resolve
+ip6-cidr,2001:b28:f23f::/48,proxy,no-resolve
+domain-keyword,anthropic,proxy
+domain-keyword,claude,proxy
+domain-keyword,openai,proxy
+domain-keyword,cloudflare,proxy
+domain-keyword,1024proxy,proxy
+domain,ai.google.dev,proxy
+domain,ai.google.dev,proxy
+domain,alkalimakersuite-pa.clients6.google.com,proxy
+domain,makersuite.google.com,proxy
+domain-suffix,bard.google.com,proxy
+domain-suffix,deepmind.com,proxy
+domain-suffix,deepmind.google,proxy
+domain-suffix,gemini.google.com,proxy
+domain-suffix,generativeai.google,proxy
+domain-suffix,proactivebackend-pa.googleapis.com,proxy
+domain-suffix,apis.google.com,proxy
+domain-keyword,colab,proxy
+domain-keyword,developerprofiles,proxy
+domain-keyword,generativelanguage,proxy
+domain,aistudio.google.com,proxy
+domain,api.githubcopilot.com,proxy
+domain,api.groq.com,proxy
+domain,api.together.xyz,proxy
+domain,bard.google.com,proxy
+domain,console.groq.com,proxy
+domain,copilot-proxy.githubusercontent.com,proxy
+domain,generativelanguage.googleapis.com,proxy
+domain,sydney.bing.com,proxy
+domain-suffix,ai.azure.com,proxy
+domain-suffix,anthropic.com,proxy
+domain-suffix,auth0.com,proxy
+domain-suffix,bard.google.com,proxy
+domain-suffix,chatgpt.com,proxy
+domain-suffix,claude.ai,proxy
+domain-suffix,claudeusercontent.com,proxy
+domain-suffix,client-api.arkoselabs.com,proxy
+domain-suffix,copilot.cloud.microsoft,proxy
+domain-suffix,copilot.microsoft.com,proxy
+domain-suffix,cursor.com,proxy
+domain-suffix,cursor.sh,proxy
+domain-suffix,events.statsigapi.net,proxy
+domain-suffix,featuregates.org,proxy
+domain-suffix,gemini.google.com,proxy
+domain-suffix,grazie.ai,proxy
+domain-suffix,grazie.aws.intellij.net,proxy
+domain-suffix,identrust.com,proxy
+domain-suffix,intercom.io,proxy
+domain-suffix,intercomcdn.com,proxy
+domain-suffix,makersuite.google.com,proxy
+domain-suffix,meta.ai,proxy
+domain-suffix,mistral.ai,proxy
+domain-suffix,oaistatic.com,proxy
+domain-suffix,oaiusercontent.com,proxy
+domain-suffix,openai.com,proxy
+domain-suffix,openaiapi-site.azureedge.net,proxy
+domain-suffix,perplexity.ai,proxy
+domain-suffix,sora.com,proxy
+domain-keyword,openai,proxy
+domain-suffix,auth0.com,proxy
+domain-suffix,challenges.cloudflare.com,proxy
+domain-suffix,chatgpt.com,proxy
+domain-suffix,client-api.arkoselabs.com,proxy
+domain-suffix,events.statsigapi.net,proxy
+domain-suffix,featuregates.org,proxy
+domain-suffix,identrust.com,proxy
+domain-suffix,intercom.io,proxy
+domain-suffix,intercomcdn.com,proxy
+domain-suffix,oaistatic.com,proxy
+domain-suffix,oaiusercontent.com,proxy
+domain-suffix,openai.com,proxy
+domain-suffix,openaiapi-site.azureedge.net,proxy
+domain-suffix,sentry.io,proxy
+domain-suffix,stripe.com,proxy
+domain-suffix,sora.com,proxy
+domain-suffix,edgedatg.com, proxy
+domain-suffix,go.com, proxy
+domain-keyword,anthropic, proxy
+domain-keyword,claude, proxy
+domain-keyword,openai, proxy
+domain,ai.google.dev, proxy
+domain,aistudio.google.com, proxy
+domain,api.githubcopilot.com, proxy
+domain,api.groq.com, proxy
+domain,api.together.xyz, proxy
+domain,bard.google.com, proxy
+domain,console.groq.com, proxy
+domain,copilot-proxy.githubusercontent.com, proxy
+domain,generativelanguage.googleapis.com, proxy
+domain,sydney.bing.com, proxy
+domain-suffix,ai.azure.com, proxy
+domain-suffix,anthropic.com, proxy
+domain-suffix,auth0.com, proxy
+domain-suffix,bard.google.com, proxy
+domain-suffix,chatgpt.com, proxy
+domain-suffix,claude.ai, proxy
+domain-suffix,claudeusercontent.com, proxy
+domain-suffix,client-api.arkoselabs.com, proxy
+domain-suffix,copilot.cloud.microsoft, proxy
+domain-suffix,copilot.microsoft.com, proxy
+domain-suffix,cursor.com, proxy
+domain-suffix,cursor.sh, proxy
+domain-suffix,events.statsigapi.net, proxy
+domain-suffix,featuregates.org, proxy
+domain-suffix,gemini.google.com, proxy
+domain-suffix,grazie.ai, proxy
+domain-suffix,grazie.aws.intellij.net, proxy
+domain-suffix,identrust.com, proxy
+domain-suffix,intercom.io, proxy
+domain-suffix,intercomcdn.com, proxy
+domain-suffix,makersuite.google.com, proxy
+domain-suffix,meta.ai, proxy
+domain-suffix,mistral.ai, proxy
+domain-suffix,oaistatic.com, proxy
+domain-suffix,oaiusercontent.com, proxy
+domain-suffix,openai.com, proxy
+domain-suffix,openaiapi-site.azureedge.net, proxy
+domain-suffix,perplexity.ai, proxy
+domain-suffix,sora.com, proxy
+domain-keyword,abematv.akamaized.net, proxy
+domain-suffix,abema.io, proxy
+domain-suffix,abema.tv, proxy
+domain-suffix,ameba.jp, proxy
+domain-suffix,hayabusa.io, proxy
+domain-suffix,c4assets.com, proxy
+domain-suffix,channel4.com, proxy
+domain-keyword,avoddashs, proxy
+domain,atv-ps.amazon.com, proxy
+domain,avodmp4s3ww-a.akamaihd.net, proxy
+domain,d1v5ir2lpwr8os.cloudfront.net, proxy
+domain,d1xfray82862hr.cloudfront.net, proxy
+domain,d22qjgkvxw22r6.cloudfront.net, proxy
+domain,d25xi40x97liuc.cloudfront.net, proxy
+domain,d27xxe7juh1us6.cloudfront.net, proxy
+domain,d3196yreox78o9.cloudfront.net, proxy
+domain,dmqdd6hw24ucf.cloudfront.net, proxy
+domain,ktpx.amazon.com, proxy
+domain-suffix,aboutamazon.com, proxy
+domain-suffix,aiv-cdn.net, proxy
+domain-suffix,aiv-delivery.net, proxy
+domain-suffix,amazon.jobs, proxy
+domain-suffix,amazontools.com, proxy
+domain-suffix,amazontours.com, proxy
+domain-suffix,amazonuniversity.jobs, proxy
+domain-suffix,amazonvideo.com, proxy
+domain-suffix,media-amazon.com, proxy
+domain-suffix,pv-cdn.net, proxy
+domain-suffix,seattlespheres.com, proxy
+domain,gspe1-ssl.ls.apple.com, proxy
+domain,np-edge.itunes.apple.com, proxy
+domain,play-edge.itunes.apple.com, proxy
+domain-suffix,tv.apple.com, proxy
+domain-keyword,bbcfmt, proxy
+domain-keyword,uk-live, proxy
+domain,aod-dash-uk-live.akamaized.net, proxy
+domain,aod-hls-uk-live.akamaized.net, proxy
+domain,vod-dash-uk-live.akamaized.net, proxy
+domain,vod-thumb-uk-live.akamaized.net, proxy
+domain-suffix,bbc.co, proxy
+domain-suffix,bbc.co.uk, proxy
+domain-suffix,bbc.com, proxy
+domain-suffix,bbc.net.uk, proxy
+domain-suffix,bbcfmt.hs.llnwd.net, proxy
+domain-suffix,bbci.co, proxy
+domain-suffix,bbci.co.uk, proxy
+domain-suffix,bidi.net.uk, proxy
+domain,bahamut.akamaized.net, proxy
+domain,gamer-cds.cdn.hinet.net, proxy
+domain,gamer2-cds.cdn.hinet.net, proxy
+domain-suffix,bahamut.com.tw, proxy
+domain-suffix,gamer.com.tw, proxy
+domain-keyword,voddazn, proxy
+domain,d151l6v8er5bdm.cloudfront.net, proxy
+domain-suffix,d151l6v8er5bdm.cloudfront.net, proxy
+domain-suffix,d1sgwhnao7452x.cloudfront.net, proxy
+domain-suffix,dazn-api.com, proxy
+domain-suffix,dazn.com, proxy
+domain-suffix,dazndn.com, proxy
+domain-suffix,dcblivedazn.akamaized.net, proxy
+domain-suffix,indazn.com, proxy
+domain-suffix,indaznlab.com, proxy
+domain-suffix,sentry.io, proxy
+domain-suffix,deezer.com, proxy
+domain-suffix,dzcdn.net, proxy
+domain-suffix,disco-api.com, proxy
+domain-suffix,discovery.com, proxy
+domain-suffix,uplynk.com, proxy
+domain,cdn.registerdisney.go.com, proxy
+domain-suffix,adobedtm.com, proxy
+domain-suffix,bam.nr-data.net, proxy
+domain-suffix,bamgrid.com, proxy
+domain-suffix,braze.com, proxy
+domain-suffix,cdn.optimizely.com, proxy
+domain-suffix,cdn.registerdisney.go.com, proxy
+domain-suffix,cws.conviva.com, proxy
+domain-suffix,d9.flashtalking.com, proxy
+domain-suffix,disney-plus.net, proxy
+domain-suffix,disney-portal.my.onetrust.com, proxy
+domain-suffix,disney.demdex.net, proxy
+domain-suffix,disney.my.sentry.io, proxy
+domain-suffix,disneyplus.bn5x.net, proxy
+domain-suffix,disneyplus.com, proxy
+domain-suffix,disneyplus.com.ssl.sc.omtrdc.net, proxy
+domain-suffix,disneystreaming.com, proxy
+domain-suffix,dssott.com, proxy
+domain-suffix,execute-api.us-east-1.amazonaws.com, proxy
+domain-suffix,js-agent.newrelic.com, proxy
+domain,bcbolt446c5271-a.akamaihd.net, proxy
+domain,content.jwplatform.com, proxy
+domain,edge.api.brightcove.com, proxy
+domain,videos-f.jwpsrv.com, proxy
+domain-suffix,encoretvb.com, proxy
+domain-suffix,fox.com, proxy
+domain-suffix,foxdcg.com, proxy
+domain-suffix,uplynk.com, proxy
+domain-suffix,hbo.com, proxy
+domain-suffix,hbogo.com, proxy
+domain-suffix,hbomax.com, proxy
+domain-suffix,hbomaxcdn.com, proxy
+domain-suffix,hbonow.com, proxy
+domain-keyword,hbogoasia, proxy
+domain,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, proxy
+domain,bcbolthboa-a.akamaihd.net, proxy
+domain,cf-images.ap-southeast-1.prod.boltdns.net, proxy
+domain,dai3fd1oh325y.cloudfront.net, proxy
+domain,hboasia1-i.akamaihd.net, proxy
+domain,hboasia2-i.akamaihd.net, proxy
+domain,hboasia3-i.akamaihd.net, proxy
+domain,hboasia4-i.akamaihd.net, proxy
+domain,hboasia5-i.akamaihd.net, proxy
+domain,hboasialive.akamaized.net, proxy
+domain,hbogoprod-vod.akamaized.net, proxy
+domain,hbolb.onwardsmg.com, proxy
+domain,hbounify-prod.evergent.com, proxy
+domain,players.brightcove.net, proxy
+domain,s3-ap-southeast-1.amazonaws.com, proxy
+domain-suffix,hboasia.com, proxy
+domain-suffix,hbogoasia.com, proxy
+domain-suffix,hbogoasia.hk, proxy
+domain-suffix,5itv.tv, proxy
+domain-suffix,ocnttv.com, proxy
+domain-suffix,cws-hulu.conviva.com, proxy
+domain-suffix,hulu.com, proxy
+domain-suffix,hulu.hb.omtrdc.net, proxy
+domain-suffix,hulu.sc.omtrdc.net, proxy
+domain-suffix,huluad.com, proxy
+domain-suffix,huluim.com, proxy
+domain-suffix,hulustream.com, proxy
+domain-suffix,happyon.jp, proxy
+domain-suffix,hjholdings.jp, proxy
+domain-suffix,hulu.jp, proxy
+domain-suffix,prod.hjholdings.tv, proxy
+domain-suffix,streaks.jp, proxy
+domain-suffix,yb.uncn.jp, proxy
+domain,itvpnpmobile-a.akamaihd.net, proxy
+domain-suffix,itv.com, proxy
+domain-suffix,itvstatic.com, proxy
+domain-suffix,iwara.tv, proxy
+domain-keyword,jooxweb-api, proxy
+domain-suffix,joox.com, proxy
+domain-keyword,japonx, proxy
+domain-keyword,japronx, proxy
+domain-suffix,japonx.com, proxy
+domain-suffix,japonx.net, proxy
+domain-suffix,japonx.tv, proxy
+domain-suffix,japonx.vip, proxy
+domain-suffix,japronx.com, proxy
+domain-suffix,japronx.net, proxy
+domain-suffix,japronx.tv, proxy
+domain-suffix,japronx.vip, proxy
+domain-suffix,kfs.io, proxy
+domain-suffix,kkbox.com, proxy
+domain-suffix,kkbox.com.tw, proxy
+domain,kktv-theater.kk.stream, proxy
+domain,theater-kktv.cdn.hinet.net, proxy
+domain-suffix,kktv.com.tw, proxy
+domain-suffix,kktv.me, proxy
+domain,litvfreemobile-hichannel.cdn.hinet.net, proxy
+domain-suffix,litv.tv, proxy
+domain,d3c7rimkq79yfu.cloudfront.net, proxy
+domain-suffix,d3c7rimkq79yfu.cloudfront.net, proxy
+domain-suffix,linetv.tw, proxy
+domain-suffix,profile.line-scdn.net, proxy
+domain,d349g9zuie06uo.cloudfront.net, proxy
+domain-suffix,channel5.com, proxy
+domain-suffix,my5.tv, proxy
+domain-keyword,nowtv100, proxy
+domain-keyword,rthklive, proxy
+domain,mytvsuperlimited.hb.omtrdc.net, proxy
+domain,mytvsuperlimited.sc.omtrdc.net, proxy
+domain-suffix,mytvsuper.com, proxy
+domain-suffix,tvb.com, proxy
+domain-keyword,apiproxy-device-prod-nlb-, proxy
+domain-keyword,dualstack.apiproxy-, proxy
+domain-keyword,netflixdnstest, proxy
+domain,netflix.com.edgesuite.net, proxy
+domain-suffix,fast.com, proxy
+domain-suffix,netflix.com, proxy
+domain-suffix,netflix.net, proxy
+domain-suffix,netflixdnstest0.com, proxy
+domain-suffix,netflixdnstest1.com, proxy
+domain-suffix,netflixdnstest2.com, proxy
+domain-suffix,netflixdnstest3.com, proxy
+domain-suffix,netflixdnstest4.com, proxy
+domain-suffix,netflixdnstest5.com, proxy
+domain-suffix,netflixdnstest6.com, proxy
+domain-suffix,netflixdnstest7.com, proxy
+domain-suffix,netflixdnstest8.com, proxy
+domain-suffix,netflixdnstest9.com, proxy
+domain-suffix,nflxext.com, proxy
+domain-suffix,nflximg.com, proxy
+domain-suffix,nflximg.net, proxy
+domain-suffix,nflxso.net, proxy
+domain-suffix,nflxvideo.net, proxy
+ip-cidr,8.41.4.0/24, proxy,no-resolve
+ip-cidr,23.246.0.0/18, proxy,no-resolve
+ip-cidr,37.77.184.0/21, proxy,no-resolve
+ip-cidr,38.72.126.0/24, proxy,no-resolve
+ip-cidr,45.57.0.0/17, proxy,no-resolve
+ip-cidr,64.120.128.0/17, proxy,no-resolve
+ip-cidr,66.197.128.0/17, proxy,no-resolve
+ip-cidr,69.53.224.0/19, proxy,no-resolve
+ip-cidr,103.87.204.0/22, proxy,no-resolve
+ip-cidr,108.175.32.0/20, proxy,no-resolve
+ip-cidr,185.2.220.0/22, proxy,no-resolve
+ip-cidr,185.9.188.0/22, proxy,no-resolve
+ip-cidr,192.173.64.0/18, proxy,no-resolve
+ip-cidr,198.38.96.0/19, proxy,no-resolve
+ip-cidr,198.45.48.0/20, proxy,no-resolve
+ip-cidr,203.75.84.0/24, proxy,no-resolve
+ip-cidr,207.45.72.0/22, proxy,no-resolve
+ip-cidr,208.75.76.0/22, proxy,no-resolve
+domain-suffix,dmc.nico, proxy
+domain-suffix,nicovideo.jp, proxy
+domain-suffix,nimg.jp, proxy
+domain-keyword,nivod, proxy
+domain-suffix,biggggg.com, proxy
+domain-suffix,mudvod.tv, proxy
+domain-suffix,nbys.tv, proxy
+domain-suffix,nbys1.tv, proxy
+domain-suffix,nbyy.tv, proxy
+domain-suffix,newpppp.com, proxy
+domain-suffix,nivod.tv, proxy
+domain-suffix,nivodi.tv, proxy
+domain-suffix,nivodz.com, proxy
+domain-suffix,vod360.net, proxy
+domain-keyword,olevod, proxy
+domain-suffix,haiwaikan.com, proxy
+domain-suffix,iole.tv, proxy
+domain-suffix,olehd.com, proxy
+domain-suffix,olelive.com, proxy
+domain-suffix,olevod.com, proxy
+domain-suffix,olevod.io, proxy
+domain-suffix,olevod.tv, proxy
+domain-suffix,olevodtv.com, proxy
+domain-keyword,openai, proxy
+domain-suffix,auth0.com, proxy
+domain-suffix,challenges.cloudflare.com, proxy
+domain-suffix,chatgpt.com, proxy
+domain-suffix,client-api.arkoselabs.com, proxy
+domain-suffix,events.statsigapi.net, proxy
+domain-suffix,featuregates.org, proxy
+domain-suffix,identrust.com, proxy
+domain-suffix,intercom.io, proxy
+domain-suffix,intercomcdn.com, proxy
+domain-suffix,oaistatic.com, proxy
+domain-suffix,oaiusercontent.com, proxy
+domain-suffix,openai.com, proxy
+domain-suffix,openaiapi-site.azureedge.net, proxy
+domain-suffix,sentry.io, proxy
+domain-suffix,stripe.com, proxy
+domain-suffix,pbs.org, proxy
+domain-suffix,pandora.com, proxy
+domain-suffix,phncdn.com, proxy
+domain-suffix,phprcdn.com, proxy
+domain-suffix,pornhub.com, proxy
+domain-suffix,pornhubpremium.com, proxy
+domain-suffix,qobuz.com, proxy
+domain-suffix,p-cdn.us, proxy
+domain-suffix,sndcdn.com, proxy
+domain-suffix,soundcloud.com, proxy
+domain-keyword,-spotify-, proxy
+domain-keyword,spotify.com, proxy
+domain-suffix,pscdn.co, proxy
+domain-suffix,scdn.co, proxy
+domain-suffix,spoti.fi, proxy
+domain-suffix,spotify.com, proxy
+domain-suffix,spotifycdn.com, proxy
+domain-suffix,spotifycdn.net, proxy
+domain-suffix,tidal-cms.s3.amazonaws.com, proxy
+domain-suffix,tidal.com, proxy
+domain-suffix,tidalhifi.com, proxy
+domain,hamifans.emome.net, proxy
+domain-suffix,skyking.com.tw, proxy
+domain-keyword,tiktokcdn, proxy
+domain-suffix,byteoversea.com, proxy
+domain-suffix,ibytedtos.com, proxy
+domain-suffix,ipstatp.com, proxy
+domain-suffix,muscdn.com, proxy
+domain-suffix,musical.ly, proxy
+domain-suffix,tik-tokapi.com, proxy
+domain-suffix,tiktok.com, proxy
+domain-suffix,tiktokcdn.com, proxy
+domain-suffix,tiktokv.com, proxy
+domain-keyword,ttvnw, proxy
+domain-suffix,ext-twitch.tv, proxy
+domain-suffix,jtvnw.net, proxy
+domain-suffix,ttvnw.net, proxy
+domain-suffix,twitch-ext.rootonline.de, proxy
+domain-suffix,twitch.tv, proxy
+domain-suffix,twitchcdn.net, proxy
+domain,api.viu.now.com, proxy
+domain,d1k2us671qcoau.cloudfront.net, proxy
+domain,d2anahhhmp1ffz.cloudfront.net, proxy
+domain,dfp6rglgjqszk.cloudfront.net, proxy
+domain-suffix,cognito-identity.us-east-1.amazonaws.com, proxy
+domain-suffix,d1k2us671qcoau.cloudfront.net, proxy
+domain-suffix,d2anahhhmp1ffz.cloudfront.net, proxy
+domain-suffix,dfp6rglgjqszk.cloudfront.net, proxy
+domain-suffix,mobileanalytics.us-east-1.amazonaws.com, proxy
+domain-suffix,viu.com, proxy
+domain-suffix,viu.now.com, proxy
+domain-suffix,viu.tv, proxy
+domain-keyword,youtube, proxy
+domain,youtubei.googleapis.com, proxy
+domain,yt3.ggpht.com, proxy
+domain-suffix,googlevideo.com, proxy
+domain-suffix,gvt2.com, proxy
+domain-suffix,withyoutube.com, proxy
+domain-suffix,youtu.be, proxy
+domain-suffix,youtube-nocookie.com, proxy
+domain-suffix,youtube.com, proxy
+domain-suffix,youtubeeducation.com, proxy
+domain-suffix,youtubegaming.com, proxy
+domain-suffix,youtubekids.com, proxy
+domain-suffix,yt.be, proxy
+domain-suffix,ytimg.com, proxy
+domain,music.youtube.com, proxy
+domain-suffix,1password.com,proxy
+domain-suffix,adguard.org,proxy
+domain-suffix,bit.no.com,proxy
+domain-suffix,btlibrary.me,proxy
+domain-suffix,cloudcone.com,proxy
+domain-suffix,dubox.com,proxy
+domain-suffix,gameloft.com,proxy
+domain-suffix,garena.com,proxy
+domain-suffix,hoyolab.com,proxy
+domain-suffix,inoreader.com,proxy
+domain-suffix,ip138.com,proxy
+domain-suffix,linkedin.com,proxy
+domain-suffix,myteamspeak.com,proxy
+domain-suffix,notion.so,proxy
+domain-suffix,ping.pe,proxy
+domain-suffix,reddit.com,proxy
+domain-suffix,teddysun.com,proxy
+domain-suffix,tumbex.com,proxy
+domain-suffix,twdvd.com,proxy
+domain-suffix,unsplash.com,proxy
+domain-suffix,buzzsprout.com,proxy
+domain-suffix,eu,proxy
+domain-suffix,hk,proxy
+domain-suffix,jp,proxy
+domain-suffix,kr,proxy
+domain-suffix,sg,proxy
+domain-suffix,tw,proxy
+domain-suffix,uk,proxy
+domain-keyword,jinkela,proxy
+domain-keyword,nbsd,proxy
+domain-keyword,muguacloud,proxy
+domain-keyword,biteb,proxy  
+domain-keyword,1e100,proxy
+domain-keyword,abema,proxy
+domain-keyword,appledaily,proxy
+domain-keyword,avtb,proxy
+domain-keyword,beetalk,proxy
+domain-keyword,blogspot,proxy
+domain-keyword,dropbox,proxy
+domain-keyword,facebook,proxy
+domain-keyword,fbcdn,proxy
+domain-keyword,github,proxy
+domain-keyword,gmail,proxy
+domain-keyword,google,proxy
+domain-keyword,instagram,proxy
+domain-keyword,porn,proxy
+domain-keyword,sci-hub,proxy
+domain-keyword,spotify,proxy
+domain-keyword,telegram,proxy
+domain-keyword,twitter,proxy
+domain-keyword,whatsapp,proxy
+domain-keyword,youtube,proxy
+domain-suffix,4sqi.net,proxy
+domain-suffix,a248.e.akamai.net,proxy
+domain-suffix,adobedtm.com,proxy
+domain-suffix,ampproject.org,proxy
+domain-suffix,android.com,proxy
+domain-suffix,aolcdn.com,proxy
+domain-suffix,apkmirror.com,proxy
+domain-suffix,apkpure.com,proxy
+domain-suffix,app-measurement.com,proxy
+domain-suffix,appspot.com,proxy
+domain-suffix,archive.org,proxy
+domain-suffix,armorgames.com,proxy
+domain-suffix,aspnetcdn.com,proxy
+domain-suffix,awsstatic.com,proxy
+domain-suffix,azureedge.net,proxy
+domain-suffix,azurewebsites.net,proxy
+domain-suffix,bandwagonhost.com,proxy
+domain-suffix,bing.com,proxy
+domain-suffix,bkrtx.com,proxy
+domain-suffix,blogcdn.com,proxy
+domain-suffix,blogger.com,proxy
+domain-suffix,blogsmithmedia.com,proxy
+domain-suffix,blogspot.com,proxy
+domain-suffix,blogspot.hk,proxy
+domain-suffix,blogspot.jp,proxy
+domain-suffix,bloomberg.cn,proxy
+domain-suffix,bloomberg.com,proxy
+domain-suffix,box.com,proxy
+domain-suffix,cachefly.net,proxy
+domain-suffix,cdnst.net,proxy
+domain-suffix,cloudfront.net,proxy
+domain-suffix,comodoca.com,proxy
+domain-suffix,daum.net,proxy
+domain-suffix,deskconnect.com,proxy
+domain-suffix,disqus.com,proxy
+domain-suffix,disquscdn.com,proxy
+domain-suffix,dropbox.com,proxy
+domain-suffix,dropboxapi.com,proxy
+domain-suffix,dropboxstatic.com,proxy
+domain-suffix,dropboxusercontent.com,proxy
+domain-suffix,duckduckgo.com,proxy
+domain-suffix,edgecastcdn.net,proxy
+domain-suffix,edgekey.net,proxy
+domain-suffix,edgesuite.net,proxy
+domain-suffix,eurekavpt.com,proxy
+domain-suffix,fastmail.com,proxy
+domain-suffix,firebaseio.com,proxy
+domain-suffix,flickr.com,proxy
+domain-suffix,flipboard.com,proxy
+domain-suffix,gfx.ms,proxy
+domain-suffix,gongm.in,proxy
+domain-suffix,hulu.com,proxy
+domain-suffix,id.heroku.com,proxy
+domain-suffix,io.io,proxy
+domain-suffix,issuu.com,proxy
+domain-suffix,ixquick.com,proxy
+domain-suffix,jtvnw.net,proxy
+domain-suffix,kat.cr,proxy
+domain-suffix,kik.com,proxy
+domain-suffix,kobo.com,proxy
+domain-suffix,kobobooks.com,proxy
+domain-suffix,licdn.com,proxy
+domain-suffix,live.net,proxy
+domain-suffix,livefilestore.com,proxy
+domain-suffix,llnwd.net,proxy
+domain-suffix,macrumors.com,proxy
+domain-suffix,medium.com,proxy
+domain-suffix,mega.nz,proxy
+domain-suffix,megaupload.com,proxy
+domain-suffix,messenger.com,proxy
+domain-suffix,netdna-cdn.com,proxy
+domain-suffix,nintendo.net,proxy
+domain-suffix,nsstatic.net,proxy
+domain-suffix,nytstyle.com,proxy
+domain-suffix,overcast.fm,proxy
+domain-suffix,openvpn.net,proxy
+domain-suffix,periscope.tv,proxy
+domain-suffix,pinimg.com,proxy
+domain-suffix,pinterest.com,proxy
+domain-suffix,potato.im,proxy
+domain-suffix,prfct.co,proxy
+domain-suffix,pscp.tv,proxy
+domain-suffix,quora.com,proxy
+domain-suffix,resilio.com,proxy
+domain-suffix,sfx.ms,proxy
+domain-suffix,shadowsocks.org,proxy
+domain-suffix,slack-edge.com,proxy
+domain-suffix,smartdnsproxy.com,proxy
+domain-suffix,sndcdn.com,proxy
+domain-suffix,soundcloud.com,proxy
+domain-suffix,startpage.com,proxy
+domain-suffix,staticflickr.com,proxy
+domain-suffix,symauth.com,proxy
+domain-suffix,symcb.com,proxy
+domain-suffix,symcd.com,proxy
+domain-suffix,textnow.com,proxy
+domain-suffix,textnow.me,proxy
+domain-suffix,thefacebook.com,proxy
+domain-suffix,thepiratebay.org,proxy
+domain-suffix,torproject.org,proxy
+domain-suffix,trustasiassl.com,proxy
+domain-suffix,tumblr.co,proxy
+domain-suffix,tumblr.com,proxy
+domain-suffix,tvb.com,proxy
+domain-suffix,txmblr.com,proxy
+domain-suffix,v2ex.com,proxy
+domain-suffix,vimeo.com,proxy
+domain-suffix,vine.co,proxy
+domain-suffix,vox-cdn.com,proxy
+domain-suffix,amazon.co.jp,proxy
+domain-suffix,amazon.com,proxy
+domain-suffix,amazonaws.com,proxy
+ip-cidr,13.32.0.0/15,proxy,no-resolve
+ip-cidr,13.35.0.0/17,proxy,no-resolve
+ip-cidr,18.184.0.0/15,proxy,no-resolve
+ip-cidr,18.194.0.0/15,proxy,no-resolve
+ip-cidr,18.208.0.0/13,proxy,no-resolve
+ip-cidr,18.232.0.0/14,proxy,no-resolve
+ip-cidr,52.58.0.0/15,proxy,no-resolve
+ip-cidr,52.74.0.0/16,proxy,no-resolve
+ip-cidr,52.77.0.0/16,proxy,no-resolve
+ip-cidr,52.84.0.0/15,proxy,no-resolve
+ip-cidr,52.200.0.0/13,proxy,no-resolve
+ip-cidr,54.93.0.0/16,proxy,no-resolve
+ip-cidr,54.156.0.0/14,proxy,no-resolve
+ip-cidr,54.226.0.0/15,proxy,no-resolve
+ip-cidr,54.230.156.0/22,proxy,no-resolve
+domain-keyword,uk-live,proxy
+domain-suffix,bbc.co,proxy
+domain-suffix,bbc.com,proxy
+domain-suffix,claude.ai,proxy
+domain-suffix,anthropic.com,proxy
+domain-suffix,apache.org,proxy
+domain-suffix,docker.com,proxy
+domain-suffix,docker.io,proxy
+domain-suffix,elastic.co,proxy
+domain-suffix,elastic.com,proxy
+domain-suffix,gcr.io,proxy
+domain-suffix,gitlab.com,proxy
+domain-suffix,gitlab.io,proxy
+domain-suffix,jitpack.io,proxy
+domain-suffix,maven.org,proxy
+domain-suffix,medium.com,proxy
+domain-suffix,mvnrepository.com,proxy
+domain-suffix,quay.io,proxy
+domain-suffix,reddit.com,proxy
+domain-suffix,redhat.com,proxy
+domain-suffix,sonatype.org,proxy
+domain-suffix,sourcegraph.com,proxy
+domain-suffix,spring.io,proxy
+domain-suffix,spring.net,proxy
+domain-suffix,stackoverflow.com,proxy
+domain,d1q6f0aelx0por.cloudfront.net,proxy
+domain,d2wy8f7a9ursnm.cloudfront.net,proxy
+domain,d36jcksde1wxzq.cloudfront.net,proxy
+domain-suffix,compose-spec.io,proxy
+domain-suffix,docker.com,proxy
+domain-suffix,docker.io,proxy
+domain-suffix,dockerhub.com,proxy
+domain-suffix,discord.co,proxy
+domain-suffix,discord.com,proxy
+domain-suffix,discord.gg,proxy
+domain-suffix,discord.media,proxy
+domain-suffix,discordapp.com,proxy
+domain-suffix,discordapp.net,proxy
+domain-suffix,facebook.com,proxy
+domain-suffix,fb.com,proxy
+domain-suffix,fb.me,proxy
+domain-suffix,fbcdn.com,proxy
+domain-suffix,fbcdn.net,proxy
+ip-cidr,31.13.24.0/21,proxy,no-resolve
+ip-cidr,31.13.64.0/18,proxy,no-resolve
+ip-cidr,45.64.40.0/22,proxy,no-resolve
+ip-cidr,66.220.144.0/20,proxy,no-resolve
+ip-cidr,69.63.176.0/20,proxy,no-resolve
+ip-cidr,69.171.224.0/19,proxy,no-resolve
+ip-cidr,74.119.76.0/22,proxy,no-resolve
+ip-cidr,103.4.96.0/22,proxy,no-resolve
+ip-cidr,129.134.0.0/17,proxy,no-resolve
+ip-cidr,157.240.0.0/17,proxy,no-resolve
+ip-cidr,173.252.64.0/18,proxy,no-resolve
+ip-cidr,179.60.192.0/22,proxy,no-resolve
+ip-cidr,185.60.216.0/22,proxy,no-resolve
+ip-cidr,204.15.20.0/22,proxy,no-resolve
+domain-suffix,github.com,proxy
+domain-suffix,github.io,proxy
+domain-suffix,githubapp.com,proxy
+domain-suffix,githubassets.com,proxy
+domain-suffix,githubusercontent.com,proxy
+domain-suffix,1e100.net,proxy
+domain-suffix,2mdn.net,proxy
+domain-suffix,app-measurement.net,proxy
+domain-suffix,g.co,proxy
+domain-suffix,ggpht.com,proxy
+domain-suffix,goo.gl,proxy
+domain-suffix,googleapis.cn,proxy
+domain-suffix,googleapis.com,proxy
+domain-suffix,gstatic.cn,proxy
+domain-suffix,gstatic.com,proxy
+domain-suffix,gvt0.com,proxy
+domain-suffix,gvt1.com,proxy
+domain-suffix,gvt2.com,proxy
+domain-suffix,gvt3.com,proxy
+domain-suffix,xn--ngstr-lra8j.com,proxy
+domain-suffix,youtu.be,proxy
+domain-suffix,youtube-nocookie.com,proxy
+domain-suffix,youtube.com,proxy
+domain-suffix,yt.be,proxy
+domain-suffix,ytimg.com,proxy
+ip-cidr,74.125.0.0/16,proxy,no-resolve
+ip-cidr,173.194.0.0/16,proxy,no-resolve
+ip-cidr,120.232.181.162/32,proxy,no-resolve
+ip-cidr,120.241.147.226/32,proxy,no-resolve
+ip-cidr,120.253.253.226/32,proxy,no-resolve
+ip-cidr,120.253.255.162/32,proxy,no-resolve
+ip-cidr,120.253.255.34/32,proxy,no-resolve
+ip-cidr,120.253.255.98/32,proxy,no-resolve
+ip-cidr,180.163.150.162/32,proxy,no-resolve
+ip-cidr,180.163.150.34/32,proxy,no-resolve
+ip-cidr,180.163.151.162/32,proxy,no-resolve
+ip-cidr,180.163.151.34/32,proxy,no-resolve
+ip-cidr,203.208.39.0/24,proxy,no-resolve
+ip-cidr,203.208.40.0/24,proxy,no-resolve
+ip-cidr,203.208.41.0/24,proxy,no-resolve
+ip-cidr,203.208.43.0/24,proxy,no-resolve
+ip-cidr,203.208.50.0/24,proxy,no-resolve
+ip-cidr,220.181.174.162/32,proxy,no-resolve
+ip-cidr,220.181.174.226/32,proxy,no-resolve
+ip-cidr,220.181.174.34/32,proxy,no-resolve
+domain-suffix,cdninstagram.com,proxy
+domain-suffix,instagram.com,proxy
+domain-suffix,instagr.am,proxy
+domain-suffix,iwara.tv,proxy
+domain-suffix,kakao.com,proxy
+domain-suffix,kakao.co.kr,proxy
+domain-suffix,kakaocdn.net,proxy
+ip-cidr,1.201.0.0/24,proxy,no-resolve
+ip-cidr,27.0.236.0/22,proxy,no-resolve
+ip-cidr,103.27.148.0/22,proxy,no-resolve
+ip-cidr,103.246.56.0/22,proxy,no-resolve
+ip-cidr,110.76.140.0/22,proxy,no-resolve
+ip-cidr,113.61.104.0/22,proxy,no-resolve
+domain-suffix,lin.ee,proxy
+domain-suffix,line-apps.com,proxy
+domain-suffix,line-cdn.net,proxy
+domain-suffix,line-scdn.net,proxy
+domain-suffix,line.me,proxy
+domain-suffix,line.naver.jp,proxy
+domain-suffix,nhncorp.jp,proxy
+ip-cidr,103.2.28.0/24,proxy,no-resolve
+ip-cidr,103.2.30.0/23,proxy,no-resolve
+ip-cidr,119.235.224.0/24,proxy,no-resolve
+ip-cidr,119.235.232.0/24,proxy,no-resolve
+ip-cidr,119.235.235.0/24,proxy,no-resolve
+ip-cidr,119.235.236.0/23,proxy,no-resolve
+ip-cidr,147.92.128.0/17,proxy,no-resolve
+ip-cidr,203.104.128.0/19,proxy,no-resolve
+domain-suffix,openai.com,proxy
+domain-suffix,challenges.cloudflare.com,proxy
+domain-keyword,1drv,proxy
+domain-keyword,onedrive,proxy
+domain-keyword,skydrive,proxy
+domain-suffix,livefilestore.com,proxy
+domain-suffix,oneclient.sfx.ms,proxy
+domain-suffix,onedrive.com,proxy
+domain-suffix,onedrive.live.com,proxy
+domain-suffix,photos.live.com,proxy
+domain-suffix,skydrive.wns.windows.com,proxy
+domain-suffix,spoprod-a.akamaihd.net,proxy
+domain-suffix,storage.live.com,proxy
+domain-suffix,storage.msn.com,proxy
+domain-keyword,porn,proxy
+domain-suffix,8teenxxx.com,proxy
+domain-suffix,ahcdn.com,proxy
+domain-suffix,bcvcdn.com,proxy
+domain-suffix,bongacams.com,proxy
+domain-suffix,chaturbate.com,proxy
+domain-suffix,dditscdn.com,proxy
+domain-suffix,livejasmin.com,proxy
+domain-suffix,phncdn.com,proxy
+domain-suffix,phprcdn.com,proxy
+domain-suffix,pornhub.com,proxy
+domain-suffix,pornhubpremium.com,proxy
+domain-suffix,rdtcdn.com,proxy
+domain-suffix,redtube.com,proxy
+domain-suffix,sb-cd.com,proxy
+domain-suffix,spankbang.com,proxy
+domain-suffix,t66y.com,proxy
+domain-suffix,xhamster.com,proxy
+domain-suffix,xnxx-cdn.com,proxy
+domain-suffix,xnxx.com,proxy
+domain-suffix,xvideos-cdn.com,proxy
+domain-suffix,xvideos.com,proxy
+domain-suffix,ypncdn.com,proxy
+domain-suffix,pixiv.net,proxy
+domain-suffix,pximg.net,proxy
+domain-suffix,fanbox.cc,proxy
+domain-suffix,amplitude.com,proxy
+domain-suffix,firebaseio.com,proxy
+domain-suffix,hockeyapp.net,proxy
+domain-suffix,readdle.com,proxy
+domain-suffix,smartmailcloud.com,proxy
+domain-suffix,fanatical.com,proxy
+domain-suffix,humblebundle.com,proxy
+domain-suffix,underlords.com,proxy
+domain-suffix,valvesoftware.com,proxy
+domain-suffix,playartifact.com,proxy
+domain-suffix,steam-chat.com,proxy
+domain-suffix,steamcommunity.com,proxy
+domain-suffix,steamgames.com,proxy
+domain-suffix,steampowered.com,proxy
+domain-suffix,steamserver.net,proxy
+domain-suffix,steamstatic.com,proxy
+domain-suffix,steamstat.us,proxy
+domain,steambroadcast.akamaized.net,proxy
+domain,steamcommunity-a.akamaihd.net,proxy
+domain,steamstore-a.akamaihd.net,proxy
+domain,steamusercontent-a.akamaihd.net,proxy
+domain,steamuserimages-a.akamaihd.net,proxy
+domain,steampipe.akamaized.net,proxy
+domain-suffix,tap.io,proxy
+domain-suffix,taptap.tw,proxy
+domain-suffix,twitch.tv,proxy
+domain-suffix,ttvnw.net,proxy
+domain-suffix,jtvnw.net,proxy
+domain-keyword,ttvnw,proxy
+domain-suffix,t.co,proxy
+domain-suffix,twimg.co,proxy
+domain-suffix,twimg.com,proxy
+domain-suffix,twimg.org,proxy
+domain-suffix,x.com,proxy
+domain-suffix,t.me,proxy
+domain-suffix,tdesktop.com,proxy
+domain-suffix,telegra.ph,proxy
+domain-suffix,telegram.me,proxy
+domain-suffix,telegram.org,proxy
+domain-suffix,telesco.pe,proxy
+ip-cidr,91.108.0.0/16,proxy,no-resolve
+ip-cidr,109.239.140.0/24,proxy,no-resolve
+ip-cidr,149.154.160.0/20,proxy,no-resolve
+ip6-cidr,2001:67c:4e8::/48,proxy,no-resolve
+ip6-cidr,2001:b28:f23d::/48,proxy,no-resolve
+ip6-cidr,2001:b28:f23f::/48,proxy,no-resolve
+domain-suffix,terabox.com,proxy
+domain-suffix,teraboxcdn.com,proxy
+ip-cidr,18.194.0.0/15,proxy,no-resolve
+ip-cidr,34.224.0.0/12,proxy,no-resolve
+ip-cidr,54.242.0.0/15,proxy,no-resolve
+ip-cidr,50.22.198.204/30,proxy,no-resolve
+ip-cidr,208.43.122.128/27,proxy,no-resolve
+ip-cidr,108.168.174.0/16,proxy,no-resolve
+ip-cidr,173.192.231.32/27,proxy,no-resolve
+ip-cidr,158.85.5.192/27,proxy,no-resolve
+ip-cidr,174.37.243.0/16,proxy,no-resolve
+ip-cidr,158.85.46.128/27,proxy,no-resolve
+ip-cidr,173.192.222.160/27,proxy,no-resolve
+ip-cidr,184.173.128.0/17,proxy,no-resolve
+ip-cidr,158.85.224.160/27,proxy,no-resolve
+ip-cidr,75.126.150.0/16,proxy,no-resolve
+ip-cidr,69.171.235.0/16,proxy,no-resolve
+
 domain-suffix,mediawiki.org, proxy
 domain-suffix,wikibooks.org, proxy
 domain-suffix,wikidata.org, proxy
